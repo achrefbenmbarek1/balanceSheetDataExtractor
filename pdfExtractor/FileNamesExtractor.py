@@ -1,6 +1,6 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-from .FileNameManiputlation import FileNameManipulation
+from pdfExtractor.FileNameManiputlation import FileNameManipulation
 import re
 
 class FileNamesExtractor():

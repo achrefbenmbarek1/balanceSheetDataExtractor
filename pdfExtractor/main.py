@@ -1,7 +1,7 @@
-from pdfExtractor.BankNameExtractorImp import BankNameExtractorImp
+from pdfExtractor.FileNameManipulationImp import FileNameManiputlationImp
 from pdfExtractor.CommandExtractData import CommandExtractData
 from pdfExtractor.CommandExtractDataImp import CommandExtractDataImp
-from pdfExtractor.BankNameExtractor import BankNameExtractor
+from pdfExtractor.FileNameManiputlation import FileNameManipulation
 from pdfExtractor.FileNamesExtractor import FileNamesExtractor
 from pdfExtractor.FileManager import FileManager
 from pdfExtractor.PatternSelector import PatternSelector
@@ -18,11 +18,11 @@ if __name__ == "__main__":
     # invoker:Invoker = Invoker(commandExtractBna)
     # dataExtractor:DataExtractor = DataExtractor();
     # dataExtractor.extractData()
-    bankNameExtractor:BankNameExtractor = BankNameExtractorImp()
-    fileNamesExtractor:FileNamesExtractor = FileNamesExtractor(bankNameExtractor)
+    fileNameManipulation:FileNameManipulation = FileNameManiputlationImp()
+    fileNamesExtractor:FileNamesExtractor = FileNamesExtractor(fileNameManipulation)
     fileNamesExtractor.extractFileNames()
     patternSelector:PatternSelector = PatternSelector()
-    fileManager:FileManager = FileManager(bankNameExtractor, fileNamesExtractor, patternSelector) 
+    fileManager:FileManager = FileManager(fileNameManipulation, fileNamesExtractor, patternSelector) 
     commandExtractData:CommandExtractData = CommandExtractDataImp(fileManager)
     dataExtractorInvoker:Invoker = Invoker(commandExtractData)
     dataExtractorInvoker.extractData()
