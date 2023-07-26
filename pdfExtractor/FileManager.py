@@ -46,5 +46,7 @@ class FileManager():
                 self.write(fileLink);
             
     def remove(self) -> None:
-        shutil.rmtree(self.filesLinks[2][-5:-1]) 
+        # shutil.rmtree(self.filesLinks[2][-5:-1]) 
+         shutil.rmtree("Data") 
+    
        

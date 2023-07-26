@@ -6,8 +6,6 @@ from pdfExtractor.FileLinksExtractor import FileLinksExtractor
 from pdfExtractor.FileManager import DataImporterLocally, FileManager, PatternSelector
 from pdfExtractor.Invoker import Invoker
 
-
-
 if __name__ == "__main__":
     fileNameManipulation:FileLinkManipulator = FileLinkManipulatorImp()
     fileLinksExtractor:FileLinksExtractor = FileLinksExtractorImp(fileNameManipulation)
@@ -16,5 +14,6 @@ if __name__ == "__main__":
     fileManager:FileManager = FileManager(fileNameManipulation, fileLinksExtractor, dataImporterLocally, patternSelector) 
     commandExtractData:CommandExtractData = CommandExtractDataImp(fileManager)
     dataExtractorInvoker:Invoker = Invoker(commandExtractData)
+    dataExtractorInvoker.removeData()
     dataExtractorInvoker.extractData()
     
