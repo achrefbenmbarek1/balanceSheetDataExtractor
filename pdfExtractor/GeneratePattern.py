@@ -1,11 +1,7 @@
 from abc import ABC, abstractmethod
 
-class CommandExtractBna(ABC):
+class CommandGeneratePatternBiat(ABC):
     @abstractmethod
     def execute(self):
         pass
     
-    @abstractmethod
-    def unexecute(self):
-        pass
-

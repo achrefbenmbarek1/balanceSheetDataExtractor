@@ -1,55 +1,50 @@
 import re
 import shutil
 import os
-from FileNameManiputlation import FileNameManipulation
-import tabula
-from pdfExtractor.PatternSelector import PatternSelector
-from FileNamesExtractor import FileNamesExtractor
 
-# beginningsOfFields = [ "Total PA3", "Total AC3", "Total PR1", "Total PR2", "Total PR3", "Total PR4", "Total CH 1", "Total CH2", "Total PR7", "Total CH6", "Total CH7", "Total PR5", "Total PR6" ]
+from pdfExtractor.PatternSelector import PatternSelector
+from FileLinksExtractor import FileLinksExtractor
+from pdfExtractor.DataImporterLocally import DataImporterLocally
+from pdfExtractor.FileLinkManipulator import FileLinkManipulator
 
 class FileManager():
-    def __init__(self ,fileNameManipulation:FileNameManipulation, fileNamesExtractor:FileNamesExtractor, patternSelector:PatternSelector) -> None:
-        # self.beginningsOfFields = beginningsOfFields
-        # self.file = "tables.csv"
-        self.files = fileNamesExtractor.extractFileNames()
+    def __init__(self ,fileLinkManipulator:FileLinkManipulator, fileLinksExtractor:FileLinksExtractor, dataImporterLocally:DataImporterLocally, patternSelector:PatternSelector) -> None:
+        self.filesLinks = fileLinksExtractor.extractFileLinks()
+        self.fileLinkManipulator = fileLinkManipulator
+        self.dataImporterLocally = dataImporterLocally
         self.patternSelector = patternSelector
-        self.fileNameManipulation = fileNameManipulation
+        # self.fieldNames = [ "Dépôts et avoirs de la clientèle", "Créances sur la clientèle", "Intérêts et revenus assimilés", "Commissions (en produits)", "Gains sur portefeuille-titres commercial et opérations financières", "Revenus du portefeuille d’investissement", "Intérêts encourus et charges assimilées", "Commissions encourues", "corrections de valeurs sur créances, hors bilan et passif", "corrections de valeurs sur portefeuille d'investissement", "Autres produits d'exploitation", "Frais de personnel", "Charges générales d'exploitation" ]
         
-    
-        
-    def write(self, fileUrl, outputDirectory:str):
-        bankName:str = self.fileNameManipulation.extractBankName(fileUrl)
-        beginningsOfFields = self.patternSelector.selectPattern(bankName)
-        fileFullName = self.fileNameManipulation.generateFileName(fileUrl[:-1])
-        fileName = fileFullName[fileFullName.rfind('/') + 1:]
-        fileNameCsv = fileName[:-4]+'.csv'
-        print(fileNameCsv)
-        tabula.io.convert_into(fileFullName,fileNameCsv,output_format="csv",pages="all")
-        for beginningOfField in beginningsOfFields:
-            outputFile = os.path.join(outputDirectory, beginningOfField + ".csv") 
-            with open(fileNameCsv, "r") as f:
-                for lineNumber, line in enumerate(f, start=1):
-                    valuableData = re.search( r'.*' + re.escape(beginningOfField) + r'.*' ,line) 
-                    if(valuableData):
-                        with open(outputFile,"w") as f1:
-                             f1.write("%s" % valuableData.group()) 
-                        break
-                    else:
-                        print("searching ...")
+    def write(self, fileLink:str) -> None:
+        data = self.dataImporterLocally.importDataLocally(fileLink)
+        outputDirectory = self.fileLinkManipulator.generateOutputDirectory(fileLink)
+        bankName = self.fileLinkManipulator.extractBankName(fileLink)
+        fieldNames = self.patternSelector.selectPattern(bankName)
+        for fieldName in fieldNames:
+            print(fieldName)
+            outputFile = os.path.join(outputDirectory, fieldName + ".csv") 
+            for datum in data:
+                potentialDatum = re.search( r'.*' + re.escape(fieldName) + r'.*' ,datum)
+                if(potentialDatum):
+                    with open(outputFile,"w") as f1:
+                         f1.write("%s" % potentialDatum.group()) 
+                    break
+             
 
-    def writeFiles(self):
-        for bankName in self.files:
-            for fileName in self.files[bankName]:
-                outputDirectory = bankName + fileName[-11:].replace('/','-')
-                isExistingDirectory = os.path.exists(outputDirectory)
+    def writeFiles(self) -> None:
+        isExistingOutput = os.path.exists("Data")
+        if(not isExistingOutput):
+            os.makedirs("Data")
+        for bankName in self.filesLinks:
+            for fileLink in self.filesLinks[bankName]:
+                dataDirectory = os.path.join("Data",bankName + fileLink[-11:].replace('/','-'))
+                isExistingDirectory = os.path.exists(dataDirectory)
                 if(not isExistingDirectory):
-                    os.makedirs(outputDirectory)
-                    print(outputDirectory)
-                    
-                print(fileName)
-                self.write(fileName, outputDirectory);
+                    os.makedirs(dataDirectory)
+                    print(dataDirectory)
+                print(fileLink)
+                self.write(fileLink);
             
-    def remove(self):
-        shutil.rmtree(self.files[2][-5:-1]) 
+    def remove(self) -> None:
+        shutil.rmtree(self.filesLinks[2][-5:-1]) 
        

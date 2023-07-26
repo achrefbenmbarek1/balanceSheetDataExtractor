@@ -27,3 +27,4 @@ __pycache__
 pdfExtractor/__pycache__
 pdfExtractor/tables2.csv
 .venv
+pdfExtractor/Data

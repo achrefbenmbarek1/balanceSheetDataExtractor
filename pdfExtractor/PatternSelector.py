@@ -1,12 +1,12 @@
-from pdfExtractor.CommandGeneratePatternBtImp import CommandGeneratePatternBtImp
+from pdfExtractor.GeneratePatternBiatImp import GeneratePatternBiatImp
 
 
 class PatternSelector:
     def __init__(self) -> None:
-        self.conditions = dict({"BT":CommandGeneratePatternBtImp()})
+        self.conditions = dict({"BIAT":GeneratePatternBiatImp()})
     
-    def selectPattern(self,fileName:str):
-       if fileName in self.conditions:
-        return self.conditions[fileName].execute() 
+    def selectPattern(self,bankName:str):
+       if bankName in self.conditions:
+        return self.conditions[bankName].generatePattern() 
        else:
-           return ["PA3" ,"AC3", "PR1", "PR2", "PR3", "PR4", "CH 1", "CH2", "PR7", "CH6", "CH7", "PR5", "PR6"]
+           return [ "PA3", "AC3", "PR1", "PR2", "PR3", "PR4", "CH1", "CH2", "PR7", "CH6", "CH7", "PR5", "PR6" ]
