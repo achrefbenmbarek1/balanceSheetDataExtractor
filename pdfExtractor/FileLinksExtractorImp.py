@@ -9,7 +9,7 @@ import re
 class FileLinksExtractorImp(FileLinksExtractor):
     def __init__(self, fileLinkManipulator:FileLinkManipulator) -> None:
        self.fileLinksPerBank = dict() 
-       self.urls = ["https://www.bvmt.com.tn/fr/documents/44/18/list","http://www.bvmt.com.tn/fr/documents/26/18/list"]
+       self.urls = ["https://www.bvmt.com.tn/fr/documents/44/18/list","http://www.bvmt.com.tn/fr/documents/26/18/list","https://www.bvmt.com.tn/fr/documents/24/18/list"]
        self.fileLinkManipulator = fileLinkManipulator
     
     def extractFileLinks(self) -> dict:
@@ -22,7 +22,8 @@ class FileLinksExtractorImp(FileLinksExtractor):
             fileLinksBilanIndividuel = []
             numberOfFilesExtractedFromABank = 0
             rightPointer = 0
-            while numberOfFilesExtractedFromABank < 3:
+            while numberOfFilesExtractedFromABank < 3 and rightPointer < len(paragraphsWithClassTitle):
+                print(paragraphsWithClassTitle[rightPointer])
                 fileLinks = paragraphsWithClassTitle[rightPointer].find_all(string = True, recursive = False)
                 fileLinkBilanIndividuel = re.search(r'.*' + re.escape('individuels') + r'.*',fileLinks[-1])
                 if fileLinkBilanIndividuel:

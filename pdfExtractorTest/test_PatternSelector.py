@@ -5,7 +5,7 @@ class TestPatternSelector:
     def test_bt(self):
         patternSelector:PatternSelector = PatternSelector()
         output = patternSelector.selectPattern('BT')
-        assert output == [ "PA3", "AC3", "PR1", "PR2", "PR3", "PR4", "CH1", "CH2", "PR7", "CH6", "CH7", "PR5", "PR6" ]
+        assert output == [ "AC3","PA3", "PR1", "PR2", "PR3", "PR4", "CH1", "CH2", "PR7", "CH6", "CH7", "PR5", "PR6" ]
 
         
     def test_biat(self):

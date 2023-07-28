@@ -9,4 +9,4 @@ class PatternSelector:
        if bankName in self.conditions:
         return self.conditions[bankName].generatePattern() 
        else:
-           return [ "PA3", "AC3", "PR1", "PR2", "PR3", "PR4", "CH1", "CH2", "PR7", "CH6", "CH7", "PR5", "PR6" ]
+           return [ "AC3", "PA3", "PR1", "PR2", "PR3", "PR4", "CH1", "CH2", "PR7", "CH6", "CH7", "PR5", "PR6" ]

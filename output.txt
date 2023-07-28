@@ -1,1313 +1,0 @@
-"Bilan | Exercice Clos le 31/12/2022En K.TNDNotesdéc.-22déc.-21AC1 - Caisse et avoirs auprès de la BCT, CCP et TGT2.1437 250262 884AC2 - Créances sur les établissements bancaires et financiers2.2250 835270 463AC3 - Créances sur la clientèle2.35 299 3444 925 914AC4 - Portefeuille titres commercial2.439 742103 140AC5 - Portefeuille d'investissement2.51 076 899980 081AC6 - Valeurs immobilisées2.656 63646 490AC7 - Autres actifs2.749 82341 342"
-39 742
-39 74
-""
-"Bilan | Exercice Clos le 31/12/2022En K.TNDNotesdéc.-22déc.-21AC1 - Caisse et avoirs auprès de la BCT, CCP et TGT2.1437 250262 884AC2 - Créances sur les établissements bancaires et financiers2.2250 835270 463AC3 - Créances sur la clientèle2.35 299 3444 925 914AC4 - Portefeuille titres commercial2.439 742103 140AC5 - Portefeuille d'investissement2.51 076 899980 081AC6 - Valeurs immobilisées2.656 63646 490AC7 - Autres actifs2.749 82341 342",,,,,
-"",déc.-22,,,déc.-21,
-"","262 884270 4634 925 914103 140980 08146 49041 342",,,,
-"",,,,,
-437 250,,,,,
-437 25,,,,,
-250 835,,,,,
-250 83,,,,,
-5 299 344,,,,,
-5 299 34,,,,,
-39 742,,,,,
-39 74,,,,,
-1 076 899,,,,,
-1 076 89,,,,,
-56 636,,,,,
-56 63,,,,,
-49 823,,,,,
-49 82,,,,,
-5 299 344
-5 299 34
-250 835
-250 83
-56 636
-56 63
-1 076 899
-1 076 89
-"Bilan | Exercice Clos le 31/12/2022En K.TNDNotesdéc.-22déc.-21AC1 - Caisse et avoirs auprès de la BCT, CCP et TGT2.1437 250262 884AC2 - Créances sur les établissements bancaires et financiers2.2250 835270 463AC3 - Créances sur la clientèle2.35 299 3444 925 914AC4 - Portefeuille titres commercial2.439 742103 140AC5 - Portefeuille d'investissement2.51 076 899980 081AC6 - Valeurs immobilisées2.656 63646 490AC7 - Autres actifs2.749 82341 342",,,,,,,
-"",,déc.-22,,,déc.-21,,
-"",,"262 884270 4634 925 914103 140980 08146 49041 342",,,,,
-"",,,,,,,
-"",437 250,,,,,,
-"",437 25,,,,,,
-"",250 835,,,,,,
-"",250 83,,,,,,
-"",5 299 344,,,,,,
-"",5 299 34,,,,,,
-"",39 742,,,,,,
-"",39 74,,,,,,
-"",1 076 899,,,,,,
-"",1 076 89,,,,,,
-"",56 636,,,,,,
-"",56 63,,,,,,
-"",49 823,,,,,,
-"",49 82,,,,,,
-Total des Actifs,7 210 529,6 630 314,,,,,
-"",7 210 52,,,,,,
-"PA1 - Banque Centrale et CCP3.1PA2 - Dépôts et avoirs des établissements bancaires et financiers3.2PA3 - Dépôts de la clientèle3.3PA4 - Emprunts et ressources spéciales3.4PA5 - Autres passifs3.5",190 357,"265 35032 4704 634 053396 113199 062",,,,,
-"",190 35,,,,,,
-"",18 981,,,,,,
-"",18 98,,,,,,
-"",5 305 679,,,,,,
-"",5 305 67,,,,,,
-"",323 997,,,,,,
-"",323 99,,,,,,
-"",164 932,,,,,,
-"",164 93,,,,,,
-Sous-Total des Passifs,6 003 946,5 527 048,,,,,
-"",6 003 94,,,,,,
-"CP1 - Capital socialCP2 - RéservesCP4 - Report à nouveauCP5 - Bénéfice de l'exercice",270 000,"225 000715 2831 621161 362",,,,,
-"",270 00,,,,,,
-"",765 283,,,,,,
-"",765 28,,,,,,
-"",4 983,,,,,,
-"",4 98,,,,,,
-"",166 317,,,,,,
-"",166 31,,,,,,
-Sous-Total des Capitaux propres3.6,1 206 583,1 103 266,,,,,
-"",1 206 58,,,,,,
-Total des Passifs et Capitaux propres,7 210 529,6 630 314,,,,,
-7 210 52,,,,,,,
-437 250
-437 25
-7 210 529
-7 210 52
-190 357
-190 35
-18 981
-18 98
-5 305 679
-5 305 67
-323 997
-323 99
-164 932
-164 93
-6 003 946
-6 003 94
-270 000
-270 00
-765 283
-765 28
-4 983
-4 98
-166 317
-166 31
-1 206 583
-1 206 58
-"Etat des Engagements Hors Bilan | 31 décembre 2022En K.TNDNotesdéc.-22déc.-21HB1 - Cautions, avals et autres garanties données4.1797 942652 874HB2 - Crédits documentaires4.2407 248453 997HB3 - Actifs donnés en garantie4.3315 538335 590Total des Passifs éventuels1 520 7281 442 461HB4 - Engagements de financement donnés4.4197 930186 632Total des Engagements donnés197 930186 632HB6 - Engagements de financement reçus4.5-1 237HB7 - Garanties reçues4.62 857 8512 622 333Total des Engagements reçus2 857 8512 623 570",,,,,
-797 942,,,,,
-"",797 94,,,,
-"",407 24,,,,
-315 538,,,,,
-315 53,,,,,
-1 520 728,1 442 461,,,,
-1 520 728,,,,,
-197 930,,,,,
-197 93,,,,,
-197 930,186 632,,,,
--,,,,,
-2 857 851,,,,,
-2 857 851,2 623 570,,,,
-"Etat des Engagements Hors Bilan | 31 décembre 2022En K.TNDNotesdéc.-22déc.-21HB1 - Cautions, avals et autres garanties données4.1797 942652 874HB2 - Crédits documentaires4.2407 248453 997HB3 - Actifs donnés en garantie4.3315 538335 590Total des Passifs éventuels1 520 7281 442 461HB4 - Engagements de financement donnés4.4197 930186 632Total des Engagements donnés197 930186 632HB6 - Engagements de financement reçus4.5-1 237HB7 - Garanties reçues4.62 857 8512 622 333Total des Engagements reçus2 857 8512 623 570"
-197 930
-197 93
-315 538
-315 53
-1 520 728
--
-2 857 851
-797 942
-797 94
-"Etat de Résultat |Exercice de 12 mois clos le 31/12/2022En K.TNDNotesdéc.-22déc.-21PR1 - Intérêts et revenus assimilés5.1491 158441 626PR2 - Commissions (en produits)5.277 22370 481PR3 - Gains sur portefeuille-titres commercial et opérations financières5.331 25221 580PR4 - Revenus du portefeuille d'investissement5.492 88071 329Total Produits d'exploitation692 513605 016CH1 - Intérêts encourus et charges assimilées5.5260 678223 093CH2 - Commissions encourues5.67 9784 304Total Charges d'exploitation268 656227 397Produit net bancaire423 857377 619PR5/CH4 - Dotations aux provisions & corrections de valeur sur créances et passifs5.740 48013 677PR6/CH5 - Dotations aux provisions & corrections de valeurs sur portefeuille d'investissement5.88 6941 904PR7 - Autres produits d'exploitation5.91 2051 147CH6 - Frais de personnel5.1099 43792 669CH7 - Charges générales d'exploitation5.1137 43033 031CH8 - Dotations aux amortissements sur immobilisations5.128 0988 395Résultat d'exploitation230 923229 090PR8/CH9 - Solde en gain / perte provenant des éléments ordinaires5.13193(6 854)CH11 - Impôt sur les bénéfices5.1464 79960 874Résultat net des activités ordinaires166 317161 362PR9/CH10 - Solde gains / pertes des éléments extraordinaires5.15--Résultat net de la période166 317161 362"
-31 252
-37 430
-268 656
-99 437
-7 978
-423 857
-8 098
-491 158
-40 480
-64 799
-92 880
-230 923
-77 223
-260 678
-"Etat de Résultat |Exercice de 12 mois clos le 31/12/2022En K.TNDNotesdéc.-22déc.-21PR1 - Intérêts et revenus assimilés5.1491 158441 626PR2 - Commissions (en produits)5.277 22370 481PR3 - Gains sur portefeuille-titres commercial et opérations financières5.331 25221 580PR4 - Revenus du portefeuille d'investissement5.492 88071 329Total Produits d'exploitation692 513605 016CH1 - Intérêts encourus et charges assimilées5.5260 678223 093CH2 - Commissions encourues5.67 9784 304Total Charges d'exploitation268 656227 397Produit net bancaire423 857377 619PR5/CH4 - Dotations aux provisions & corrections de valeur sur créances et passifs5.740 48013 677PR6/CH5 - Dotations aux provisions & corrections de valeurs sur portefeuille d'investissement5.88 6941 904PR7 - Autres produits d'exploitation5.91 2051 147CH6 - Frais de personnel5.1099 43792 669CH7 - Charges générales d'exploitation5.1137 43033 031CH8 - Dotations aux amortissements sur immobilisations5.128 0988 395Résultat d'exploitation230 923229 090PR8/CH9 - Solde en gain / perte provenant des éléments ordinaires5.13193(6 854)CH11 - Impôt sur les bénéfices5.1464 79960 874Résultat net des activités ordinaires166 317161 362PR9/CH10 - Solde gains / pertes des éléments extraordinaires5.15--Résultat net de la période166 317161 362",,,,,,
-"",,déc.-22,,,déc.-21,
-"",,,,,,
-"",491 158,,,,,
-"",77 223,,,,,
-"",31 252,,,,,
-"",92 880,,,,,
-Total Produits d'exploitation,692 513,,,,,
-"",692 513,,,,,
-"CH1 - Intérêts encourus et charges assimilées5.5CH2 - Commissions encourues5.6",260 678,,,,,
-"",260 678,,,,,
-"",7 978,,,,,
-Total Charges d'exploitation,268 656,,,,,
-"",268 656,,,,,
-Produit net bancaire,423 857,,,,,
-"",423 857,,,,,
-"PR5/CH4 - Dotations aux provisions & corrections de valeur sur créances et passifs5.7PR6/CH5 - Dotations aux provisions & corrections de valeurs sur portefeuille d'investissement5.8PR7 - Autres produits d'exploitation5.9CH6 - Frais de personnel5.10CH7 - Charges générales d'exploitation5.11CH8 - Dotations aux amortissements sur immobilisations5.12",40 480,,,,,
-"",40 480,,,,,
-"",8 694,,,,,
-"",1 205,,,,,
-"",99 437,,,,,
-"",37 430,,,,,
-"",8 098,,,,,
-Résultat d'exploitation,230 923,,,,,
-"",230 923,,,,,
-"PR8/CH9 - Solde en gain / perte provenant des éléments ordinaires5.13CH11 - Impôt sur les bénéfices5.14",193,,,,,
-"",193,,,,,
-"",64 799,,,,,
-Résultat net des activités ordinaires,166 317,,,,,
-"",166 317,,,,,
-PR9/CH10 - Solde gains / pertes des éléments extraordinaires5.15,-,,,,,
-"",-,,,,,
-Résultat net de la période,166 317,,,,,
-166 317,,,,,,
-8 694
-193
-692 513
-1 205
-"Etat des flux de trésorerie |Exercice de 12 mois clos le 31/12/2022En K.TNDNotesdéc.-22déc.-21Produits d'exploitation bancaire encaissés6.1587 700534 214Charges d'exploitation bancaire décaissées6.2(246 809)(231 245)Dépôts / retraits de dépôts auprès d'autres établissements bancaires et financiers(81 945)4 941Prêts et avances / remboursement prêts et avances accordés à la clientèle(382 274)(93 688)Dépôts / retraits de dépôts de la clientèle650 153337 661Sommes versées au personnel et créditeurs divers(115 916)(99 624)Autres flux de trésorerie provenant des activités d'exploitation(82 749)(42 493)Impôt sur les bénéfices(64 799)(60 874)Flux de trésorerie nets provenant des (affectés aux) activités d'exploitation263 361348 892Intérêts et dividendes encaissés sur portefeuille d'investissement87 15870 914Acquisitions/ cessions sur portefeuille d'investissement(99 789)(3 374)Acquisitions/ cessions sur immobilisations(17 962)(7 681)Flux de trésorerie nets provenant des (affectés aux) activités d'investissement(30 593)59 859Augmentation/diminution ressources spéciales(72 489)(72 840)Dividendes versés6.3(63 000)(78 750)Flux de trésorerie nets provenant des (affectés aux) activités de financement(135 489)(151 590)Variation nette des liquidités et équivalents de liquidités au cours de l'exercice97 279257 161Liquidités et équivalents de liquidités en début d'exercice528 196271 035Liquidités et équivalents de liquidités en fin d'exercice6.4625 475528 196"
-(81 945)
-(81 945
-"Etat des flux de trésorerie |Exercice de 12 mois clos le 31/12/2022En K.TNDNotesdéc.-22déc.-21Produits d'exploitation bancaire encaissés6.1587 700534 214Charges d'exploitation bancaire décaissées6.2(246 809)(231 245)Dépôts / retraits de dépôts auprès d'autres établissements bancaires et financiers(81 945)4 941Prêts et avances / remboursement prêts et avances accordés à la clientèle(382 274)(93 688)Dépôts / retraits de dépôts de la clientèle650 153337 661Sommes versées au personnel et créditeurs divers(115 916)(99 624)Autres flux de trésorerie provenant des activités d'exploitation(82 749)(42 493)Impôt sur les bénéfices(64 799)(60 874)Flux de trésorerie nets provenant des (affectés aux) activités d'exploitation263 361348 892Intérêts et dividendes encaissés sur portefeuille d'investissement87 15870 914Acquisitions/ cessions sur portefeuille d'investissement(99 789)(3 374)Acquisitions/ cessions sur immobilisations(17 962)(7 681)Flux de trésorerie nets provenant des (affectés aux) activités d'investissement(30 593)59 859Augmentation/diminution ressources spéciales(72 489)(72 840)Dividendes versés6.3(63 000)(78 750)Flux de trésorerie nets provenant des (affectés aux) activités de financement(135 489)(151 590)Variation nette des liquidités et équivalents de liquidités au cours de l'exercice97 279257 161Liquidités et équivalents de liquidités en début d'exercice528 196271 035Liquidités et équivalents de liquidités en fin d'exercice6.4625 475528 196",,,,,
-587 700,,,,,
-587 70,,,,,
-(246 809),,,,,
-(246 809,,,,,
-(81 945),,,,,
-(81 945,,,,,
-(382 274),,,,,
-(382 274,,,,,
-650 153,,,,,
-650 15,,,,,
-(115 916),,,,,
-(115 916,,,,,
-(82 749),,,,,
-(64 799),,,,,
-(64 799,,,,,
-263 361,,,,,
-263 36,,,,,
-87 158,,,,,
-87 15,,,,,
-(99 789),,,,,
-(99 789,,,,,
-(17 962),,,,,
-(17 962,,,,,
-(30 593),,,,,
-(72 489),,,,,
-(72 489,,,,,
-(63 000),,,,,
-(63 000,,,,,
-(135 489),,,,,
-97 279,,,,,
-97 27,,,,,
-528 196,,,,,
-625 475,,,,,
-625 47,,,,,
-(99 789)
-(99 789
-(115 916)
-(115 916
-(63 000)
-(63 000
-(82 749)
-97 279
-97 27
-(382 274)
-(382 274
-87 158
-87 15
-(30 593)
-650 153
-650 15
-(246 809)
-(246 809
-(135 489)
-(64 799)
-(64 799
-587 700
-587 70
-528 196
-(17 962)
-(17 962
-(72 489)
-(72 489
-263 361
-263 36
-"",,,,,,,,,,compte en,revenus.,"Toutefois,",et,pour,les,besoins,de,la
-1. Présentation,de,la,banque,et,de,ses,principes,et,,"présentation des états financiers, le montant des intérêts perçus",,,,,,,,
-méthodes comptables,,,,,,,,,,d'avance et non courus à la date d'arrêté des états financiers,,,,,,,,
-"",,,,,,,,,,sont déduits de la valeur des prêts et avances figurant à l'actif.,,,,,,,,
-La Banque de Tunisie est une société anonyme au capital de,,,,,,,,,,,,,,,,,,
-"270.000.000 dinars, créée en 1884, et régie par la loi n° 2016-48",,,,,,,,,,"Par ailleurs, lorsque la banque s'associe avec d'autres banques",,,,,,,,
-du 11 juillet 2016 relative aux établissements de crédit.,,,,,,,,,,pour accorder un concours à une tierce personne sous forme de,,,,,,,,
-"",,,,,,,,,,"prêts et avances,",ou,d'engagements,,de financement,,,ou,de
-La Banque de Tunisie est une banque universelle privée. Son,,,,,,,,,,"garantie, l'engagement est comptabilisé pour sa quote-part dans",,,,,,,,
-"capital social est divisé en 270 000 000 actions de 1 DT chacune,",,,,,,,,,,l'opération.,,,,,,,,
-réparties comme suit :,,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,Dans le cas,où la quote-part,en,risque,,de,l'établissement,,
-"",,,,,Nombre,,,,,bancaire est supérieure ou inférieure à celle de sa quote-part,,,,,,,,
-Actionnaires,,,,,,,%,,,"dans l'opération, la différence est constatée selon le cas parmi",,,,,,,,
-"",,,,(Unité 1000),,,,,,les engagements de garantie donnés ou les engagements de,,,,,,,,
-"",,,,,,,,,,garantie reçus.,,,,,,,,
-Actionnaires Tunisiens,,,,,171 094,,63%,,,,,,,,,,,
-Actionnaires Etrangers,,,,,98 906,,37%,,,1.1.2. La comptabilisation des engagements en hors bilan,,,,,,,,
-Total,,,,,270 000,,100%,,,a) Les engagements de financement et de garantie,,,,,,,,
-"",,,,,,,,,,Les engagements de financement et de garantie couvrent les,,,,,,,,
-"ouvertures de lignes de crédit, les crédits documentaires et les Les états financiers",de,la,Banque,de,Tunisie,,arrêtés au,31,,,,,,,,,,
-"cautions, avals et autres garanties donnés par la banque à la décembre 2022 ont été établis conformément :",,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,demande du donneur d'ordre.,,,,,,,,
-"▪ A la loi n° 96-112 du 30 décembre 1996, relative au système",,,,,,,,,,,,,,,,,,
-Les engagements de financement et de garantie sont portés en comptable des entreprises ;,,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,hors bilan à mesure qu’ils sont contractés et sont transférés au,,,,,,,,
-▪ Au décret n°,96-2459,,du 30,décembre,,,"1996, portant",,,bilan au fur et à mesure des déblocages des fonds pour la valeur,,,,,,,,
-approbation,du,cadre,conceptuel,,de,la,comptabilité,,,nominale des,fonds,à accorder,pour,les,engagements,,,de
-financière ;,,,,,,,,,,financement,et au montant,de,la garantie,,donnée,pour,les,
-"",,,,,,,,,,engagements de garantie.,,,,,,,,
-"▪ A l’arrêté du ministre des Finances du 31 décembre 1996,",,,,,,,,,,,,,,,,,,
-portant approbation des normes comptables ;,,,,,,,,,,Aux termes,de la norme,comptable,,sectorielle,,"n°24,",les,
-"",,,,,,,,,,engagements de financement et de garantie sont annulés du,,,,,,,,
-▪ A l’arrêté du,ministre,,des Finances,,du,22,"janvier 1999,",,,,,,,,,,,
-"",,,,,,,,,,hors bilan :,,,,,,,,
-portant approbation des normes comptables techniques ;,,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,▪ Soit à la fin de la période de garantie à partir de laquelle,,,,,,,,
-"▪ A l’arrêté du ministre des Finances du 25 mars 1999, portant",,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,l'engagement cesse de produire ses effets ;,,,,,,,,
-approbation des normes comptables sectorielles relatives,,,,,,,,,,,,,,,,,,
-aux établissements bancaires.,,,,,,,,,,"▪ Soit lors de la mise en œuvre de l'engagement, l'annulation",,,,,,,,
-"",,,,,,,,,,résulte,dans ce,cas du versement,,,des,fonds,et,de
-Les états financiers arrêtés et publiés par la Banque de Tunisie,,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,l'enregistrement d'une créance au bilan.,,,,,,,,
-"au 31 décembre 2022, sont présentés conformément à la norme",,,,,,,,,,,,,,,,,,
-comptable sectorielle n°21 relative à la présentation des états,,,,,,,,,,b) Les garanties reçues par la banque,,,,,,,,
-financiers des établissements bancaires.,,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,"En contrepartie des engagements donnés, la banque obtient des",,,,,,,,
-"",,,,,,,,,,"garanties sous forme d'actifs financiers, de sûretés réelles et",,,,,,,,
-1.1. Les engagements de la banque,,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,"personnelles, de cautions, avals et autres garanties donnés par",,,,,,,,
-L’engagement désigne,,toute,créance,,résultant,,des prêts,et,,d'autres établissements,,bancaires,,ainsi,que,des garanties,,
-"avances accordés par la banque, ainsi que toute obligation de la",,,,,,,,,,données par l'Etat et les compagnies d'assurance.,,,,,,,,
-banque en vertu,d'un contrat,,ou tout autre,,,"mécanisme, de",,,,,,,,,,,,
-"",,,,,,,,,,"Ces garanties sont comptabilisées, lorsque leur évaluation peut",,,,,,,,
-fournir des fonds,à,une,autre,partie,,(Engagement,,de,,,,,,,,,,
-"",,,,,,,,,,être faite de,façon,"fiable, pour",leur,valeur,,de réalisation,,
-financement) ou de garantir à un tiers l'issue d'une opération en,,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,"attendue au profit de la banque, sans pour autant excéder la",,,,,,,,
-se substituant à,son,client,s'il n'honore,,pas,ses,obligations,,,,,,,,,,,
-"",,,,,,,,,,valeur des engagements qu'elles couvrent.,,,,,,,,
-(Engagement de garantie).,,,,,,,,,,,,,,,,,,
-"",,,,,,,,,,Leur évaluation est faite sur la base d’une expertise.,,,,,,,,
-1.1.1. Les règles d’évaluation des engagements au bilan,,,,,,,,,,1.1.3 L’évaluation des engagements à la date d’arrêté,,,,,,,,
-"Les prêts et avances sont comptabilisés au bilan, pour le montant",,,,,,,,,,Aux termes de la norme comptable sectorielle n°24 relative au,,,,,,,,
-"des fonds mis à disposition du débiteur, au moment de leur mise",,,,,,,,,,traitement des engagements et revenus y afférents dans les,,,,,,,,
-à disposition.,,,,,,,,,,établissements,"bancaires,",« le risque,,que,les,contreparties,,
-"Les engagements constatés au bilan et en hors bilan sont classésClasseTaux de provisionet provisionnés conformément aux dispositions de la circulaire0 et 10%de la Banque Centrale de Tunisie n° 91-24 du 17 décembre 1991220%relativeàladivision,couverturedesrisquesetsuividesengagements.350%4100%La circulaire de la Banque Centrale de Tunisie n° 91-24 énonce laclassification suivante :Les taux de provisionnement par classe de risque sont appliqués▪Les actifs courants (Classe 0) : Sont considérés comme actifsau risque net non couvert, soit le montant de l'engagementcourants, les actifs dont la réalisation ou le recouvrementdéduction faite des agios réservés et de la valeur des garantiesintégral dans les délais paraît assuré ;obtenuessousformed'actifsfinanciers,d'immeubleshypothéqués, de garanties de l'Etat et des garanties des banques▪Les actifs nécessitant un suivi particulier (Classe 1) : Ce sontet assurances. les actifs dont la réalisation ou le recouvrement intégral dansles délais est encore assuré et qui sont détenus sur des▪Priseencomptedesgarantiesenmatièreentreprises opérant dans un secteur d’activité qui connaîtd’évaluation des provisions sur les actifs compromis :des difficultés ou dont la situation financière se dégrade. Lesretards de paiement des intérêts ou du principal n’excèdentAux termes de la circulaire BCT n°2013-21 du 30 décembre 2013pas les 90 jours ;relativeàladivision,couverturedesrisquesetsuividesengagements, une décote de la valeur de la garantie retenue▪Les actifs incertains (Classe 2) : Ce sont tous les actifs dontpour l’évaluation du risque est constituée sur les actifs ayant unela réalisation ou le recouvrement intégral dans les délais estancienneté dans la classe 4 supérieure ou égale à 3 ans pour laincertainetquisontdétenussurdesentreprisesquicouverture du risque net et ce, selon les quotités minimalesconnaissent des difficultésfinancièresou autrespouvantsuivantes :mettreencauseleurviabilitéetnécessitantlamiseenœuvredemesuresderedressement.LesretardsdeAnciennetéTaux depaiement des intérêts ou du principal sont généralementdans la classe 4provisionsupérieurs à 90 jours sans excéder 180 jours ;3 à 5 ans40%▪Les actifs préoccupants (Classe 3) : Ce sont tous les actifs6 et 7 ans70%dont la réalisation ou le recouvrement est menacé et qui≥ à 8 ans100%sont détenus sur des entreprises qui représentent avec plusde gravité les caractéristiques de la classe 2. Les retards depaiement des intérêts ou du principal sont généralementb)Les provisions collectivessupérieurs à 180 jours sans excéder 360 jours ; etEn application des dispositions de l’article 10 bis de la circulaire▪Les actifs compromis (Classes 4) : Font partie de cette classen°91-24 relative à la division, couverture des risques et suivi desles créances pour lesquelles les retards de paiement sontengagements,uneprovisiondoitêtreconstituéeparsupérieurs à 360 jours, les créances contentieuses, ainsi queprélèvementsurlesrésultatsdel’exercice,pourcouvrirlesles créances sur des entreprises qui représentent avec plusrisqueslatentssurl’ensembledesactifscourantsetceuxde gravité les caractéristiques de la classe 3. Les retards denécessitant un suivi particulier.paiement des intérêts ou du principal sont généralementsupérieurs à 360 jours.Laméthodologieadoptéepourladéterminationdeladiteprovision collective prévoit :▪Leregroupementdesengagements0et1engroupeshomogènesparnaturedudébiteur(Professionnels,1.1.4LapriseencomptedesdépréciationssurlescontrepartiespubliquesouParticuliers)etparsecteurengagementsd’activité afin de déterminer pour chaque groupe un taux demigration annuel qui correspond au risque additionnel dua)Les provisions individuellesgroupe considéré de l'année N rapporté aux engagements 0▪Règles de mesure des provisions individuelleset 1 du même groupe de l'année N-1, observé durant lesannées antérieures (5 ans, compte non tenu de l’année 2020Les provisions requises sur les actifs classés sont déterminéeset l’année de référence) ;selon les taux édictés par la Banque Centrale de Tunisie dans lacirculairen°91-24etsanoteauxbanquesn°93-23.Ces▪Calculerlamoyennedestauxdemigrationpargroupeprovisions sont constituées individuellement sur les créanceshomogène ;auprès de la clientèle.▪Les taux de migration historique du groupe de contrepartiesPour les besoins de l'estimation des provisions sur les créancessont majorés par des taux déterminés par la BCT ;delaclientèle,labanqueretientlavaleurdesgaranties▪L’application d’un taux de provisionnement standard sur lehypothécairesdûmentenregistréesetayantfaitl'objetrisque additionnel par groupe et l’application de ce taux àd'évaluationsindépendantes.Cetraitementconcernelesl’encours des engagements 0 et 1 du groupe considéré. Larelationsnouvellementclasséesparmilesactifsnon-provisioncollectiveglobaleestlasommedesprovisionsperformants sans effet rétroactif.collectives par groupe.L'application de la réglementation prudentielle conduit à retenirLes taux de provisionnement standards qui ont été fixés par lades taux minimums de provision par classe d'actifs.Banque Centrale de Tunisie retenus, pour la détermination de la",,,,,
-"",Classe,,,Taux de provision,
-0%,,,,,
-20%,,,,,
-50%,,,,,
-100%,,,,,
-"",Ancienneté,,,Taux de,
-dans la classe 4,provision,,,,
-"",40%,,,,
-70%,,,,,
-"Les engagements constatés au bilan et en hors bilan sont classésClasseTaux de provisionet provisionnés conformément aux dispositions de la circulaire0 et 10%de la Banque Centrale de Tunisie n° 91-24 du 17 décembre 1991220%relativeàladivision,couverturedesrisquesetsuividesengagements.350%4100%La circulaire de la Banque Centrale de Tunisie n° 91-24 énonce laclassification suivante :Les taux de provisionnement par classe de risque sont appliqués▪Les actifs courants (Classe 0) : Sont considérés comme actifsau risque net non couvert, soit le montant de l'engagementcourants, les actifs dont la réalisation ou le recouvrementdéduction faite des agios réservés et de la valeur des garantiesintégral dans les délais paraît assuré ;obtenuessousformed'actifsfinanciers,d'immeubleshypothéqués, de garanties de l'Etat et des garanties des banques▪Les actifs nécessitant un suivi particulier (Classe 1) : Ce sontet assurances. les actifs dont la réalisation ou le recouvrement intégral dansles délais est encore assuré et qui sont détenus sur des▪Priseencomptedesgarantiesenmatièreentreprises opérant dans un secteur d’activité qui connaîtd’évaluation des provisions sur les actifs compromis :des difficultés ou dont la situation financière se dégrade. Lesretards de paiement des intérêts ou du principal n’excèdentAux termes de la circulaire BCT n°2013-21 du 30 décembre 2013pas les 90 jours ;relativeàladivision,couverturedesrisquesetsuividesengagements, une décote de la valeur de la garantie retenue▪Les actifs incertains (Classe 2) : Ce sont tous les actifs dontpour l’évaluation du risque est constituée sur les actifs ayant unela réalisation ou le recouvrement intégral dans les délais estancienneté dans la classe 4 supérieure ou égale à 3 ans pour laincertainetquisontdétenussurdesentreprisesquicouverture du risque net et ce, selon les quotités minimalesconnaissent des difficultésfinancièresou autrespouvantsuivantes :mettreencauseleurviabilitéetnécessitantlamiseenœuvredemesuresderedressement.LesretardsdeAnciennetéTaux depaiement des intérêts ou du principal sont généralementdans la classe 4provisionsupérieurs à 90 jours sans excéder 180 jours ;3 à 5 ans40%▪Les actifs préoccupants (Classe 3) : Ce sont tous les actifs6 et 7 ans70%dont la réalisation ou le recouvrement est menacé et qui≥ à 8 ans100%sont détenus sur des entreprises qui représentent avec plusde gravité les caractéristiques de la classe 2. Les retards depaiement des intérêts ou du principal sont généralementb)Les provisions collectivessupérieurs à 180 jours sans excéder 360 jours ; etEn application des dispositions de l’article 10 bis de la circulaire▪Les actifs compromis (Classes 4) : Font partie de cette classen°91-24 relative à la division, couverture des risques et suivi desles créances pour lesquelles les retards de paiement sontengagements,uneprovisiondoitêtreconstituéeparsupérieurs à 360 jours, les créances contentieuses, ainsi queprélèvementsurlesrésultatsdel’exercice,pourcouvrirlesles créances sur des entreprises qui représentent avec plusrisqueslatentssurl’ensembledesactifscourantsetceuxde gravité les caractéristiques de la classe 3. Les retards denécessitant un suivi particulier.paiement des intérêts ou du principal sont généralementsupérieurs à 360 jours.Laméthodologieadoptéepourladéterminationdeladiteprovision collective prévoit :▪Leregroupementdesengagements0et1engroupeshomogènesparnaturedudébiteur(Professionnels,1.1.4LapriseencomptedesdépréciationssurlescontrepartiespubliquesouParticuliers)etparsecteurengagementsd’activité afin de déterminer pour chaque groupe un taux demigration annuel qui correspond au risque additionnel dua)Les provisions individuellesgroupe considéré de l'année N rapporté aux engagements 0▪Règles de mesure des provisions individuelleset 1 du même groupe de l'année N-1, observé durant lesannées antérieures (5 ans, compte non tenu de l’année 2020Les provisions requises sur les actifs classés sont déterminéeset l’année de référence) ;selon les taux édictés par la Banque Centrale de Tunisie dans lacirculairen°91-24etsanoteauxbanquesn°93-23.Ces▪Calculerlamoyennedestauxdemigrationpargroupeprovisions sont constituées individuellement sur les créanceshomogène ;auprès de la clientèle.▪Les taux de migration historique du groupe de contrepartiesPour les besoins de l'estimation des provisions sur les créancessont majorés par des taux déterminés par la BCT ;delaclientèle,labanqueretientlavaleurdesgaranties▪L’application d’un taux de provisionnement standard sur lehypothécairesdûmentenregistréesetayantfaitl'objetrisque additionnel par groupe et l’application de ce taux àd'évaluationsindépendantes.Cetraitementconcernelesl’encours des engagements 0 et 1 du groupe considéré. Larelationsnouvellementclasséesparmilesactifsnon-provisioncollectiveglobaleestlasommedesprovisionsperformants sans effet rétroactif.collectives par groupe.L'application de la réglementation prudentielle conduit à retenirLes taux de provisionnement standards qui ont été fixés par lades taux minimums de provision par classe d'actifs.Banque Centrale de Tunisie retenus, pour la détermination de la"
-70%
-0%
-20%
-"",0%,,,,
-"",,0%,,,
-"",20%,,,,
-"",,20%,,,
-"",50%,,,,
-"",,50%,,,
-"",100%,,,,
-"",,100%,,,
-50%
-"",Taux de,"parmi les parts dans les entreprises associées, ou les parts"
-Groupe de créances,provision,dans les co-entreprises ou encore les parts dans les
-"",BCT,
-"",,entreprises liées.
-I. Professionnels du secteur privé,,
-Agriculture,35%,
-"",,1.2.2. La comptabilisation et évaluation en date d’arrêté
-Industries mécaniques et électriques,35%,
-Oléifacteurs,35%,Les titres sont comptabilisés à la date d’acquisition pour leur
-Industries agroalimentaires,35%,coût d’acquisition tous frais et charges exclus à l’exception des
-Industries pharmaceutique,35%,honoraires d’étude et de conseil engagés à l’occasion de
-Autres industries,35%,l’acquisition des titres d’investissement.
-BTP,35%,
-"",,Lorsque le prix d'acquisition des titres à revenu fixe est supérieur
-Tourisme,35%,"ou inférieur à leur prix de remboursement, la différence (prime"
-Agences de voyage,35%,"ou décote selon le cas), est incluse dans le coût d'acquisition, à"
-Agences de location de voitures,35%,l’exception des primes et décotes sur les titres d'investissement
-Promotion immobilière,30%,et les titres de placement qui sont individualisées et étalées sur
-▪,Le leasing mobilier : financement des investissements en,,(qui est,généralement,de,2,jours,ouvrables),sont
-"","biens d’équipement à usage professionnel (matériel roulant,",,comptabilisées en hors bilan dès la date d'engagement et au,,,,,,
-"","bureautique, équipement industriel, etc.) ;",,bilan à la date de mise à disposition des devises ;,,,,,,
-▪,Le leasing immobilier : financement des locaux à usage,▪,Les opérations de change à terme à des fins spéculatives sont,,,,,,
-Les intérêts sur les engagements,sont constatés,,au,fur et à,,,"et ce, sur la base du cours de change au comptant en vigueur"
-mesure qu'ils,sont courus et sont,rattachés à,la,période,,,à la date de leur prise en compte dans la comptabilité tenue
-adéquate par abonnement.,,,,,,,"en devises. Toutefois, un cours de change moyen"
-"",,,,,,,hebdomadaire ou mensuel peut être utilisé pour l'ensemble
-"À chaque arrêté comptable, les intérêts courus de la période,",,,,,,,des opérations comptabilisées dans chaque devise au cours
-"calculés au taux nominal du titre, sont enregistrés au compte de",,,,,,,de cette période ;
-"résultat, et le montant de la prime ou de la décote fait l'objet",,,,,,,
-d'un échelonnement linéaire sur la durée de vie du titre.,,,,,,▪,Les charges et produits libellés en devises courus et non
-"",,,,,,,échus à la date d'arrêté comptable sont convertis sur la base
-"Ainsi, les intérêts à recevoir sur les bons du Trésor souscrits sont",,,,,,,du cours de change au comptant en vigueur à la date de
-inclus dans la valeur des titres et constatés en résultat de la,,,,,,,l'arrêté comptable ;
-période.,,,,,,,
-"",,,,,,▪,"A chaque arrêté comptable, les éléments d'actif, de passif et"
-Les intérêts perçus,d'avance font l'objet,d'abonnement,,aux,,,de hors bilan figurant dans chacune des comptabilités
-périodes adéquates.,,,,,,,devises sont convertis et reversés dans la comptabilité en
-"",,,,,,,monnaie de référence sur la base du cours de change au
-1.6.5. La constatation des revenus sur les opérations de leasing,,,,,,,comptant en vigueur à la date.
-La Banque de Tunisie pratique le leasing en tant qu’activité de,,,,,,,"Les différences, entre d'une part, les éléments d'actif, de"
-crédit au sein,de ses services d’engagements.,Elle,met,à la,,,"passif et de hors bilan réévalués, et d'autre part, les"
-disposition de ses clients un instrument de financement qui leur,,,,,,,montants correspondants dans les comptes de contre-valeur
-donne la possibilité de louer les biens de leur choix tout en,,,,,,,de position de change sont pris en compte en résultat de la
-bénéficiant d’une option d’achat au terme d’un contrat de bail.,,,,,,,période considérée ;
-Il existe deux formes de leasing :,,,,,,▪,Les opérations de change au comptant avec délai d'usance
-"Caisse Dinars38 50134 593Caisse Devises5 1554 325Banque Centrale de Tunisie393 031223 414CCP563552Total AC1 - Caisse et avoirs auprès de la Banque centrale, CCP et la TGT437 250262 884Note 2.2AC2 - Créances sur les établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Avoirs chez les établissements financiers31 53631 172Avoirs en devises chez les correspondants étrangers31 53431 170Comptes débiteurs des banques et correspondants (en DT convertible)22Prêts aux établissements financiers216 913237 227Prêts au jour le jour et à terme en dinars aux banques70 000130 000Prêts au jour le jour et à terme en devises aux banques65 61432 561Prêts aux organismes financiers spécialisés81 29974 666Créances rattachées2 3862 064Créances rattachées sur prêts sur marché monétaire4246Créances rattachées sur prêts aux organismes financiers spécialisés2 3442 018Total AC2 - Créances sur les établissements bancaires et financiers250 835270 463AC2.1 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par duréerésiduelleEn K.TNDSans]3mois-]1an-≤ 3 mois> 5 ansdéc.-22échéance1an]5ans]Avoirs chez les établissements financiers31 536----31 536Avoirs en devises chez les correspondants étrangers31 534----31 534Comptes débiteurs des banques et correspondants en dinars2----2convertiblesPrêts aux établissements financiers5 344143 6937 80256 9763 098216 913Prêts au jour le jour et à terme en dinars aux banques-70 000---70 000Prêts au jour le jour et à terme en devises aux banques-65 614---65 614Prêts aux organismes financiers spécialisés5 3448 0797 80256 9763 09881 299Total AC2.1 - Ventilation des créances sur les établissementsbancaires et financiers (hors créances rattachées) par durée36 880143 6937 80256 9763 098248 449résiduelleAC2.2 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèlesAvoirs chez les établissements financiers---31 536              31 536"
-déc.-22
-"Caisse Dinars38 50134 593Caisse Devises5 1554 325Banque Centrale de Tunisie393 031223 414CCP563552Total AC1 - Caisse et avoirs auprès de la Banque centrale, CCP et la TGT437 250262 884Note 2.2AC2 - Créances sur les établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Avoirs chez les établissements financiers31 53631 172Avoirs en devises chez les correspondants étrangers31 53431 170Comptes débiteurs des banques et correspondants (en DT convertible)22Prêts aux établissements financiers216 913237 227Prêts au jour le jour et à terme en dinars aux banques70 000130 000Prêts au jour le jour et à terme en devises aux banques65 61432 561Prêts aux organismes financiers spécialisés81 29974 666Créances rattachées2 3862 064Créances rattachées sur prêts sur marché monétaire4246Créances rattachées sur prêts aux organismes financiers spécialisés2 3442 018Total AC2 - Créances sur les établissements bancaires et financiers250 835270 463AC2.1 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par duréerésiduelleEn K.TNDSans]3mois-]1an-≤ 3 mois> 5 ansdéc.-22échéance1an]5ans]Avoirs chez les établissements financiers31 536----31 536Avoirs en devises chez les correspondants étrangers31 534----31 534Comptes débiteurs des banques et correspondants en dinars2----2convertiblesPrêts aux établissements financiers5 344143 6937 80256 9763 098216 913Prêts au jour le jour et à terme en dinars aux banques-70 000---70 000Prêts au jour le jour et à terme en devises aux banques-65 614---65 614Prêts aux organismes financiers spécialisés5 3448 0797 80256 9763 09881 299Total AC2.1 - Ventilation des créances sur les établissementsbancaires et financiers (hors créances rattachées) par durée36 880143 6937 80256 9763 098248 449résiduelleAC2.2 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèlesAvoirs chez les établissements financiers---31 536              31 536",,,
-"Entreprisesassociées","Co-entreprises","Autreclientèles",déc.-22
-"",déc.-22,,
-"",31 536,,
-248 449
-"Caisse Dinars38 50134 593Caisse Devises5 1554 325Banque Centrale de Tunisie393 031223 414CCP563552Total AC1 - Caisse et avoirs auprès de la Banque centrale, CCP et la TGT437 250262 884Note 2.2AC2 - Créances sur les établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Avoirs chez les établissements financiers31 53631 172Avoirs en devises chez les correspondants étrangers31 53431 170Comptes débiteurs des banques et correspondants (en DT convertible)22Prêts aux établissements financiers216 913237 227Prêts au jour le jour et à terme en dinars aux banques70 000130 000Prêts au jour le jour et à terme en devises aux banques65 61432 561Prêts aux organismes financiers spécialisés81 29974 666Créances rattachées2 3862 064Créances rattachées sur prêts sur marché monétaire4246Créances rattachées sur prêts aux organismes financiers spécialisés2 3442 018Total AC2 - Créances sur les établissements bancaires et financiers250 835270 463AC2.1 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par duréerésiduelleEn K.TNDSans]3mois-]1an-≤ 3 mois> 5 ansdéc.-22échéance1an]5ans]Avoirs chez les établissements financiers31 536----31 536Avoirs en devises chez les correspondants étrangers31 534----31 534Comptes débiteurs des banques et correspondants en dinars2----2convertiblesPrêts aux établissements financiers5 344143 6937 80256 9763 098216 913Prêts au jour le jour et à terme en dinars aux banques-70 000---70 000Prêts au jour le jour et à terme en devises aux banques-65 614---65 614Prêts aux organismes financiers spécialisés5 3448 0797 80256 9763 09881 299Total AC2.1 - Ventilation des créances sur les établissementsbancaires et financiers (hors créances rattachées) par durée36 880143 6937 80256 9763 098248 449résiduelleAC2.2 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèlesAvoirs chez les établissements financiers---31 536              31 536",,,,,
-≤ 3 mois,"]3mois-1an]",,"]1an-5ans]",> 5 ans,déc.-22
-"",déc.-22,,,,
-"",31 536,,,,
-"",31 534,,,,
-2,,,,,
-"",2,,,,
-"",216 913,,,,
-"",70 000,,,,
-"",65 614,,,,
-"",81 299,,,,
-248 449,,,,,
-"Caisse Dinars38 50134 593Caisse Devises5 1554 325Banque Centrale de Tunisie393 031223 414CCP563552Total AC1 - Caisse et avoirs auprès de la Banque centrale, CCP et la TGT437 250262 884Note 2.2AC2 - Créances sur les établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Avoirs chez les établissements financiers31 53631 172Avoirs en devises chez les correspondants étrangers31 53431 170Comptes débiteurs des banques et correspondants (en DT convertible)22Prêts aux établissements financiers216 913237 227Prêts au jour le jour et à terme en dinars aux banques70 000130 000Prêts au jour le jour et à terme en devises aux banques65 61432 561Prêts aux organismes financiers spécialisés81 29974 666Créances rattachées2 3862 064Créances rattachées sur prêts sur marché monétaire4246Créances rattachées sur prêts aux organismes financiers spécialisés2 3442 018Total AC2 - Créances sur les établissements bancaires et financiers250 835270 463AC2.1 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par duréerésiduelleEn K.TNDSans]3mois-]1an-≤ 3 mois> 5 ansdéc.-22échéance1an]5ans]Avoirs chez les établissements financiers31 536----31 536Avoirs en devises chez les correspondants étrangers31 534----31 534Comptes débiteurs des banques et correspondants en dinars2----2convertiblesPrêts aux établissements financiers5 344143 6937 80256 9763 098216 913Prêts au jour le jour et à terme en dinars aux banques-70 000---70 000Prêts au jour le jour et à terme en devises aux banques-65 614---65 614Prêts aux organismes financiers spécialisés5 3448 0797 80256 9763 09881 299Total AC2.1 - Ventilation des créances sur les établissementsbancaires et financiers (hors créances rattachées) par durée36 880143 6937 80256 9763 098248 449résiduelleAC2.2 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèlesAvoirs chez les établissements financiers---31 536              31 536",,
-"",38 501,
-"",5 155,
-"",393 031,
-"",563,
-"",437 250,
-"",31 53,,,,
-"",216 91,,,,
-"",70 00,,,,
-"",65 61,,,,
-"",81 29,,,,
-"",2 38,,,,
-"",4,,,,
-"",2 34,,,,
-"",250 83,,,,
-"Caisse Dinars38 50134 593Caisse Devises5 1554 325Banque Centrale de Tunisie393 031223 414CCP563552Total AC1 - Caisse et avoirs auprès de la Banque centrale, CCP et la TGT437 250262 884Note 2.2AC2 - Créances sur les établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Avoirs chez les établissements financiers31 53631 172Avoirs en devises chez les correspondants étrangers31 53431 170Comptes débiteurs des banques et correspondants (en DT convertible)22Prêts aux établissements financiers216 913237 227Prêts au jour le jour et à terme en dinars aux banques70 000130 000Prêts au jour le jour et à terme en devises aux banques65 61432 561Prêts aux organismes financiers spécialisés81 29974 666Créances rattachées2 3862 064Créances rattachées sur prêts sur marché monétaire4246Créances rattachées sur prêts aux organismes financiers spécialisés2 3442 018Total AC2 - Créances sur les établissements bancaires et financiers250 835270 463AC2.1 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par duréerésiduelleEn K.TNDSans]3mois-]1an-≤ 3 mois> 5 ansdéc.-22échéance1an]5ans]Avoirs chez les établissements financiers31 536----31 536Avoirs en devises chez les correspondants étrangers31 534----31 534Comptes débiteurs des banques et correspondants en dinars2----2convertiblesPrêts aux établissements financiers5 344143 6937 80256 9763 098216 913Prêts au jour le jour et à terme en dinars aux banques-70 000---70 000Prêts au jour le jour et à terme en devises aux banques-65 614---65 614Prêts aux organismes financiers spécialisés5 3448 0797 80256 9763 09881 299Total AC2.1 - Ventilation des créances sur les établissementsbancaires et financiers (hors créances rattachées) par durée36 880143 6937 80256 9763 098248 449résiduelleAC2.2 - Ventilation des créances sur les établissements bancaires et financiers (hors créances rattachées) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèlesAvoirs chez les établissements financiers---31 536              31 536",,,,,,
-"",,38 501,,,,
-"",,5 155,,,,
-"",,393 031,,,,
-"",,563,,,,
-"",,437 250,,,,
-"",,31 53,,,,
-"",,216 91,,,,
-"",,70 00,,,,
-"",,65 61,,,,
-"",,81 29,,,,
-"",,2 38,,,,
-"",,4,,,,
-"",,2 34,,,,
-"",,250 83,,,,
-≤ 3 mois,"]3mois-1an]",,"]1an-5ans]",> 5 ans,déc.-22,
-"",,,déc.-22,,,
-"",,,,31 536,,
-"",,,,31 534,,
-"",,,2,,,
-"",,,,216 913,,
-"",,,,70 000,,
-"",,,,65 614,,
-"",,,,81 299,,
-"",,,248 449,,,
-"Entreprisesassociées","Co-entreprises","Autreclientèles",déc.-22,,,
-"",déc.-22,,,,,
-"",31 536,,,,,
-2
-Avoirs en devises chez les correspondants étrangers,-,-,-,31 534,31 534
-Comptes débiteurs des banques et correspondants en dinars,,,,,
-"",-,-,-,2,2
-Prêts aux établissements financiers,--,,-,216 913,216 913
-Prêts au jour le jour et à terme en dinars aux banques,--,,-,70 000,70 000
-Prêts au jour le jour et à terme en devises aux banques,--,,-,65 614,65 614
-Prêts aux organismes financiers spécialisés,--,,-,81 299,81 299
-Total AC2.2 - Ventilation des créances sur les,,,,,
-établissements bancaires et financiers (hors créances,--,,-,248 449,248 449
-rattachées) par type de contrepartie,,,,,
-Note 2.3,,,,,
-AC3 - Créances sur la clientèle,,,,,
-En K.TND,,,,,
-"",,,déc.-22,,déc.-21
-Comptes ordinaires débiteurs,,,,330 646,305 690
-Crédits sur ressources ordinaires,,,4 685 896,,4 349 690
-Créances sur crédit-bail,,,,108 123,102 532
-Avances sur comptes à terme et bons de caisse,,,,7 086,8 974
-Crédits sur ressources spéciales,,,,234 974,262 946
-Financements sur ressources externes,,,,226 816,253 452
-Financements sur ressources budgétaires,,,,8 158,9 494
-Créances impayées douteuses et litigieuses,,,,339 856,270 834
-Créances impayées,,,,64 509,28 825
-Créances au contentieux,,,,275 347,242 009
-Créances rattachées aux comptes de la clientèle,,,,78 249,66 915
-Couvertures comptables,,,(485 486),,(441 667)
-Agios réservés,,,,(46 151),(40 798)
-Provisions sur les crédits à la clientèle au bilan,,,(439 335),,(400 869)
-Total AC3 - Créances sur la clientèle,,,5 299 344,,4 925 914
-AC3.1 - Tableau de variation des stocks d'agios réservés,,,,,
-"",Agios réservés au,,Dotation aux,,Agios réservés au
-"",31.12.2021,,agios réservés,,31.12.2022
-Agios réservés sur ressources budgétaires,394,,,230,624
-Agios réservés sur ressources extérieures,3 580,,,19,3 599
-Agios réservés sur ressources ordinaires,18 985,,,3 138,22 123
-Agios réservés sur créances de leasing,351,,,(4),347
-Autres agios réservés,17 488,,,1 970,19 458
-Total AC3.1 - Tableau de variation des stocks d’AGR,40 798,,,5 353,46 151
-"Provisions collectives72 66712 82485 491Total AC3.2 - Tableau de variation des stocks de provisions sur créances à la400 86938 466439 335clientèleLes provisions sur créances douteuses et litigieuses sont constituées en application des dispositions règlementaires prévues par la circulairede la BCT n°91-24 relative à la division, couverture des risques et suivi des engagements.La Banque s'est conformée, en matière de détermination des provisions aux règles de division, de couverture et de suivi des engagementsédictées par la Banque Centrale de Tunisie et notamment la circulaire BCT n° 91-24 du 17 décembre 1991. Ainsi, la provision sur prêts estdéterminée en appliquant les taux de provisions par classe au risque net non couvert, soit le montant de l'engagement déduction faite desagios réservés et de la valeur des garanties reçues.Par ailleurs la banque a constitué des provisions additionnelles sur les actifs ayant une ancienneté supérieure ou égale à 3 ans dans la classede risque 4 et ce conformément aux dispositions de la circulaire 2013-21. Les provisions additionnelles constituées au 31 décembre 2022s’élèvent à 58.157 KDT contre 43.981 KDT au 31 décembre 2021.AC3.3 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par duréerésiduelleEn K.TNDSans≤3mois]3mois-1an]]1an-5ans]>5ansdéc.-22échéanceComptes ordinaires débiteurs-330 56878--330 646Crédits sur ressources ordinaires-1 643 612850 748        1 835 306356 2304 685 896Créances sur crédit-bail-15 26631 17361 444240108 123Avances sur comptes à terme et bons de caisse-3 1643 622300-7 086Crédits sur ressources spéciales-21 66399 198105 0369 077234 974Créances impayées douteuses294 3525 68817 06422 752-339 856Total AC3.3 - Ventilation des créances sur laclientèle (hors créances rattachées et provisions294 3522 019 961      1 001 8832 024 838365 5475 706 581et agios réservés) par durée résiduelleAC3.4 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes ordinaires débiteurs---330 646330 646Crédits sur ressources ordinaires---4 685 8964 685 896Créances sur crédit-bail---108 123108 123Avances sur comptes à terme et bons de caisse---7 0867 086Crédits sur ressources spéciales---234 974234 974Créances impayées douteuses---339 856339 856Total AC3.4 - Ventilation des créances sur la clientèle(hors créances rattachées et provisions et agios---5 706 5815 706 581réservés) par type de contrepartieNote 2.4AC4 - Portefeuille-titres commercialEn K.TNDdéc.-22déc.-21"
-5 706 581
-"Provisions collectives72 66712 82485 491Total AC3.2 - Tableau de variation des stocks de provisions sur créances à la400 86938 466439 335clientèleLes provisions sur créances douteuses et litigieuses sont constituées en application des dispositions règlementaires prévues par la circulairede la BCT n°91-24 relative à la division, couverture des risques et suivi des engagements.La Banque s'est conformée, en matière de détermination des provisions aux règles de division, de couverture et de suivi des engagementsédictées par la Banque Centrale de Tunisie et notamment la circulaire BCT n° 91-24 du 17 décembre 1991. Ainsi, la provision sur prêts estdéterminée en appliquant les taux de provisions par classe au risque net non couvert, soit le montant de l'engagement déduction faite desagios réservés et de la valeur des garanties reçues.Par ailleurs la banque a constitué des provisions additionnelles sur les actifs ayant une ancienneté supérieure ou égale à 3 ans dans la classede risque 4 et ce conformément aux dispositions de la circulaire 2013-21. Les provisions additionnelles constituées au 31 décembre 2022s’élèvent à 58.157 KDT contre 43.981 KDT au 31 décembre 2021.AC3.3 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par duréerésiduelleEn K.TNDSans≤3mois]3mois-1an]]1an-5ans]>5ansdéc.-22échéanceComptes ordinaires débiteurs-330 56878--330 646Crédits sur ressources ordinaires-1 643 612850 748        1 835 306356 2304 685 896Créances sur crédit-bail-15 26631 17361 444240108 123Avances sur comptes à terme et bons de caisse-3 1643 622300-7 086Crédits sur ressources spéciales-21 66399 198105 0369 077234 974Créances impayées douteuses294 3525 68817 06422 752-339 856Total AC3.3 - Ventilation des créances sur laclientèle (hors créances rattachées et provisions294 3522 019 961      1 001 8832 024 838365 5475 706 581et agios réservés) par durée résiduelleAC3.4 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes ordinaires débiteurs---330 646330 646Crédits sur ressources ordinaires---4 685 8964 685 896Créances sur crédit-bail---108 123108 123Avances sur comptes à terme et bons de caisse---7 0867 086Crédits sur ressources spéciales---234 974234 974Créances impayées douteuses---339 856339 856Total AC3.4 - Ventilation des créances sur la clientèle(hors créances rattachées et provisions et agios---5 706 5815 706 581réservés) par type de contrepartieNote 2.4AC4 - Portefeuille-titres commercialEn K.TNDdéc.-22déc.-21",,,,
-≤3mois,]3mois-1an],]1an-5ans],>5ans,déc.-22
-"",déc.-22,,,
-"",330 646,,,
-"",4 685 896,,,
-"",108 123,,,
-"",7 086,,,
-"",234 974,,,
-"",339 856,,,
-5 706 581,,,,
-"Provisions collectives72 66712 82485 491Total AC3.2 - Tableau de variation des stocks de provisions sur créances à la400 86938 466439 335clientèleLes provisions sur créances douteuses et litigieuses sont constituées en application des dispositions règlementaires prévues par la circulairede la BCT n°91-24 relative à la division, couverture des risques et suivi des engagements.La Banque s'est conformée, en matière de détermination des provisions aux règles de division, de couverture et de suivi des engagementsédictées par la Banque Centrale de Tunisie et notamment la circulaire BCT n° 91-24 du 17 décembre 1991. Ainsi, la provision sur prêts estdéterminée en appliquant les taux de provisions par classe au risque net non couvert, soit le montant de l'engagement déduction faite desagios réservés et de la valeur des garanties reçues.Par ailleurs la banque a constitué des provisions additionnelles sur les actifs ayant une ancienneté supérieure ou égale à 3 ans dans la classede risque 4 et ce conformément aux dispositions de la circulaire 2013-21. Les provisions additionnelles constituées au 31 décembre 2022s’élèvent à 58.157 KDT contre 43.981 KDT au 31 décembre 2021.AC3.3 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par duréerésiduelleEn K.TNDSans≤3mois]3mois-1an]]1an-5ans]>5ansdéc.-22échéanceComptes ordinaires débiteurs-330 56878--330 646Crédits sur ressources ordinaires-1 643 612850 748        1 835 306356 2304 685 896Créances sur crédit-bail-15 26631 17361 444240108 123Avances sur comptes à terme et bons de caisse-3 1643 622300-7 086Crédits sur ressources spéciales-21 66399 198105 0369 077234 974Créances impayées douteuses294 3525 68817 06422 752-339 856Total AC3.3 - Ventilation des créances sur laclientèle (hors créances rattachées et provisions294 3522 019 961      1 001 8832 024 838365 5475 706 581et agios réservés) par durée résiduelleAC3.4 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes ordinaires débiteurs---330 646330 646Crédits sur ressources ordinaires---4 685 8964 685 896Créances sur crédit-bail---108 123108 123Avances sur comptes à terme et bons de caisse---7 0867 086Crédits sur ressources spéciales---234 974234 974Créances impayées douteuses---339 856339 856Total AC3.4 - Ventilation des créances sur la clientèle(hors créances rattachées et provisions et agios---5 706 5815 706 581réservés) par type de contrepartieNote 2.4AC4 - Portefeuille-titres commercialEn K.TNDdéc.-22déc.-21",,,
-"Entreprisesassociées","Co-entreprises","Autresclientèles",déc.-22
-"",330 64,,
-"",4 685 89,,
-"",108 12,,
-"",7 08,,
-"",234 97,,
-"",339 85,,
-5 706 581,,,
-5 706 58,,,
-439 335
-"Provisions collectives72 66712 82485 491Total AC3.2 - Tableau de variation des stocks de provisions sur créances à la400 86938 466439 335clientèleLes provisions sur créances douteuses et litigieuses sont constituées en application des dispositions règlementaires prévues par la circulairede la BCT n°91-24 relative à la division, couverture des risques et suivi des engagements.La Banque s'est conformée, en matière de détermination des provisions aux règles de division, de couverture et de suivi des engagementsédictées par la Banque Centrale de Tunisie et notamment la circulaire BCT n° 91-24 du 17 décembre 1991. Ainsi, la provision sur prêts estdéterminée en appliquant les taux de provisions par classe au risque net non couvert, soit le montant de l'engagement déduction faite desagios réservés et de la valeur des garanties reçues.Par ailleurs la banque a constitué des provisions additionnelles sur les actifs ayant une ancienneté supérieure ou égale à 3 ans dans la classede risque 4 et ce conformément aux dispositions de la circulaire 2013-21. Les provisions additionnelles constituées au 31 décembre 2022s’élèvent à 58.157 KDT contre 43.981 KDT au 31 décembre 2021.AC3.3 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par duréerésiduelleEn K.TNDSans≤3mois]3mois-1an]]1an-5ans]>5ansdéc.-22échéanceComptes ordinaires débiteurs-330 56878--330 646Crédits sur ressources ordinaires-1 643 612850 748        1 835 306356 2304 685 896Créances sur crédit-bail-15 26631 17361 444240108 123Avances sur comptes à terme et bons de caisse-3 1643 622300-7 086Crédits sur ressources spéciales-21 66399 198105 0369 077234 974Créances impayées douteuses294 3525 68817 06422 752-339 856Total AC3.3 - Ventilation des créances sur laclientèle (hors créances rattachées et provisions294 3522 019 961      1 001 8832 024 838365 5475 706 581et agios réservés) par durée résiduelleAC3.4 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes ordinaires débiteurs---330 646330 646Crédits sur ressources ordinaires---4 685 8964 685 896Créances sur crédit-bail---108 123108 123Avances sur comptes à terme et bons de caisse---7 0867 086Crédits sur ressources spéciales---234 974234 974Créances impayées douteuses---339 856339 856Total AC3.4 - Ventilation des créances sur la clientèle(hors créances rattachées et provisions et agios---5 706 5815 706 581réservés) par type de contrepartieNote 2.4AC4 - Portefeuille-titres commercialEn K.TNDdéc.-22déc.-21",,,,,,
-"",,,,85 491,,
-"",,,439 335,,,
-"",,,,439 335,,
-≤3mois,]3mois-1an],]1an-5ans],>5ans,déc.-22,,
-"",,,,déc.-22,,
-"",,,,,330 646,
-"",,,,,4 685 896,
-"",,,,,108 123,
-"",,,,,7 086,
-"",,,,,234 974,
-"",,,,,339 856,
-"",,,,5 706 581,,
-"Entreprisesassociées","Co-entreprises","Autresclientèles",déc.-22,,,
-"",,,,,330 64,
-"",,,,,4 685 89,
-"",,,,,108 12,
-"",,,,,7 08,
-"",,,,,234 97,
-"",,,,,339 85,
-"",,,,5 706 58,,
-"",déc.-22,,,déc.-21,,
-"Provisions collectives72 66712 82485 491Total AC3.2 - Tableau de variation des stocks de provisions sur créances à la400 86938 466439 335clientèleLes provisions sur créances douteuses et litigieuses sont constituées en application des dispositions règlementaires prévues par la circulairede la BCT n°91-24 relative à la division, couverture des risques et suivi des engagements.La Banque s'est conformée, en matière de détermination des provisions aux règles de division, de couverture et de suivi des engagementsédictées par la Banque Centrale de Tunisie et notamment la circulaire BCT n° 91-24 du 17 décembre 1991. Ainsi, la provision sur prêts estdéterminée en appliquant les taux de provisions par classe au risque net non couvert, soit le montant de l'engagement déduction faite desagios réservés et de la valeur des garanties reçues.Par ailleurs la banque a constitué des provisions additionnelles sur les actifs ayant une ancienneté supérieure ou égale à 3 ans dans la classede risque 4 et ce conformément aux dispositions de la circulaire 2013-21. Les provisions additionnelles constituées au 31 décembre 2022s’élèvent à 58.157 KDT contre 43.981 KDT au 31 décembre 2021.AC3.3 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par duréerésiduelleEn K.TNDSans≤3mois]3mois-1an]]1an-5ans]>5ansdéc.-22échéanceComptes ordinaires débiteurs-330 56878--330 646Crédits sur ressources ordinaires-1 643 612850 748        1 835 306356 2304 685 896Créances sur crédit-bail-15 26631 17361 444240108 123Avances sur comptes à terme et bons de caisse-3 1643 622300-7 086Crédits sur ressources spéciales-21 66399 198105 0369 077234 974Créances impayées douteuses294 3525 68817 06422 752-339 856Total AC3.3 - Ventilation des créances sur laclientèle (hors créances rattachées et provisions294 3522 019 961      1 001 8832 024 838365 5475 706 581et agios réservés) par durée résiduelleAC3.4 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes ordinaires débiteurs---330 646330 646Crédits sur ressources ordinaires---4 685 8964 685 896Créances sur crédit-bail---108 123108 123Avances sur comptes à terme et bons de caisse---7 0867 086Crédits sur ressources spéciales---234 974234 974Créances impayées douteuses---339 856339 856Total AC3.4 - Ventilation des créances sur la clientèle(hors créances rattachées et provisions et agios---5 706 5815 706 581réservés) par type de contrepartieNote 2.4AC4 - Portefeuille-titres commercialEn K.TNDdéc.-22déc.-21",,
-"",85 491,
-439 335,,
-5 706 58
-"Provisions collectives72 66712 82485 491Total AC3.2 - Tableau de variation des stocks de provisions sur créances à la400 86938 466439 335clientèleLes provisions sur créances douteuses et litigieuses sont constituées en application des dispositions règlementaires prévues par la circulairede la BCT n°91-24 relative à la division, couverture des risques et suivi des engagements.La Banque s'est conformée, en matière de détermination des provisions aux règles de division, de couverture et de suivi des engagementsédictées par la Banque Centrale de Tunisie et notamment la circulaire BCT n° 91-24 du 17 décembre 1991. Ainsi, la provision sur prêts estdéterminée en appliquant les taux de provisions par classe au risque net non couvert, soit le montant de l'engagement déduction faite desagios réservés et de la valeur des garanties reçues.Par ailleurs la banque a constitué des provisions additionnelles sur les actifs ayant une ancienneté supérieure ou égale à 3 ans dans la classede risque 4 et ce conformément aux dispositions de la circulaire 2013-21. Les provisions additionnelles constituées au 31 décembre 2022s’élèvent à 58.157 KDT contre 43.981 KDT au 31 décembre 2021.AC3.3 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par duréerésiduelleEn K.TNDSans≤3mois]3mois-1an]]1an-5ans]>5ansdéc.-22échéanceComptes ordinaires débiteurs-330 56878--330 646Crédits sur ressources ordinaires-1 643 612850 748        1 835 306356 2304 685 896Créances sur crédit-bail-15 26631 17361 444240108 123Avances sur comptes à terme et bons de caisse-3 1643 622300-7 086Crédits sur ressources spéciales-21 66399 198105 0369 077234 974Créances impayées douteuses294 3525 68817 06422 752-339 856Total AC3.3 - Ventilation des créances sur laclientèle (hors créances rattachées et provisions294 3522 019 961      1 001 8832 024 838365 5475 706 581et agios réservés) par durée résiduelleAC3.4 - Ventilation des créances sur la clientèle (hors créances rattachées et provisions et agios réservés) par type decontrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes ordinaires débiteurs---330 646330 646Crédits sur ressources ordinaires---4 685 8964 685 896Créances sur crédit-bail---108 123108 123Avances sur comptes à terme et bons de caisse---7 0867 086Crédits sur ressources spéciales---234 974234 974Créances impayées douteuses---339 856339 856Total AC3.4 - Ventilation des créances sur la clientèle(hors créances rattachées et provisions et agios---5 706 5815 706 581réservés) par type de contrepartieNote 2.4AC4 - Portefeuille-titres commercialEn K.TNDdéc.-22déc.-21",,,,,
-Portefeuille-titres commercial,,,40 000,104 000
-Titres de transaction,,,40 000,104 000
-Produits perçus d’avance,,,(258),(860)
-Total AC4 - Portefeuille-titres commercial,,,39 742,103 140
-"AC4.1 - Ventilation des titres commerciaux, cotés ou non cotés",,,,
-En K.TND,,,,
-"",Titres cotés,,Titres non,déc.-22
-"",,,cotés,
-Bons du trésor CT à 13 semaines,,-,39 742,39 742
-"Total AC4.1 – Ventilation des titres commerciaux, cotés ou non cotés",,-,39 742,39 742
-Note 2.5,,,,
-AC5 - Portefeuille-titres d'investissement,,,,
-"",,,déc.-22,déc.-21
-Titres de propriété,,,427 118,423 268
-Titres de participation,,,52 234,60 058
-Parts dans les entreprises associées,,,1 052,1 007
-Parts dans les entreprises liées,,,50 462,50 277
-Fonds gérés par des SICAR,,,323 370,311 926
-Titres de créances,,,718 476,628 503
-Emprunts nationaux,,,90 345,25 518
-Obligations,,,2 000,3 000
-Bons de trésor assimilables,,,626 131,599 985
-Primes et décotes sur les BTA,,,(47 987),(46 923)
-Créances rattachées,,,38 763,33 040
-Provisions pour dépréciations de titres,,,(59 471),(57 807)
-Total AC5 - Portefeuille-titres d'investissement,,,1 076 899,980 081
-AC5.1 - Tableau de variation des titres d'investissement,,,,
-Solde au,Souscriptions,,Cessions ou,Solde au
-31.12.2021,,remboursement,,31.12.2022
-Titres de propriété 423 268,50 357,,46 507,427 118
-Titres de participation 60 058,-,,7 824,52 234
-Parts dans les entreprises associées 1 007,45,,-,1 052
-Parts dans les entreprises liées 50 277,312,,127,50 462
-Fonds gérés par des SICAR 311 926,50 000,,38 556,323 370
-Titres de créances 628 503,136 146,,46 173,718 476
-Emprunts nationaux 25 518,65 000,,173,90 345
-Obligations 3 000,-,,1 000,2 000
-Bons de trésor assimilables 599 985,71 146,,45 000,626 131
-Total AC5.1 - Tableau de variation des titres,,,,
-1 051 771,186 503,,92 680,1 145 594
-d'investissement,,,,
-"",Solde au,Souscriptions,Cessions ou,Solde au
-"",31.12.2021,,remboursement,31.12.2022
-Participations directes,20 950,-,-,20 950
-Participations en rétrocession,39 108,-,7 824,31 284
-Total AC5.2 - Ventilation du portefeuille d'investissement,,,,
-"",60 058,-,7 824,52 234
-selon le type de propriété,,,,
-AC5.3 - Ventilation des parts dans les entreprises associées,,,,
-31.12.2021,,,remboursement,31.12.2022
-SICAV Croissance,907,45,-,952
-FCP CEA BANQUE DE TUNISIE,100,-,-,100
-Total AC5.3 - Ventilation des parts dans les entreprises,,,,
-"",1 007,45,-,1 052
-associées,,,,
-"AC5.4 - Parts dans les entreprises associées, pourcentage de détention",,,,
-"",,,,
-FCP CEA BANQUE DE TUNISIE,,,"0,74%","3,71%"
-SICAV Croissance,,,"6,63%","6,62%"
-AC5.5 - Ventilation des parts dans les entreprises liées,,,,
-Transport de Fonds de Tunisie,99,-,-,99
-Placement Tunisie SICAF,5 472,-,127,5 345
-Société de Bourse de Tunis,990,-,-,990
-Banque de Tunisie SICAR,5 043,-,-,5 043
-Société de Participation Promotion et d'Investissement,580,-,-,580
-La Foncière des Oliviers,159,-,-,159
-ASTREE Assurance,18 312,312,-,18 624
-SPFT Carthago,13 402,-,-,13 402
-Société du Pôle de Compétitivité de Bizerte,6 220,-,-,6 220
-La Générale de Participations de Tunisie SICAF,-,-,-,-
-Total AC5 - Ventilation des parts dans les entreprises liées,50 277,312,127,50 462
-"AC5.6 - Parts dans les entreprises liées, pourcentage de détention",,,,
-Transport de Fonds de Tunisie,,,"99,94%","99,94%"
-Société de Bourse de Tunis,,,"98,99%","98,99%"
-Banque de Tunisie SICAR,,,"99,97%","99,97%"
-Société de Participation Promotion et d'Investissement,,,"76,82%","76,82%"
-"déc.-22déc.-21Amortissements des immobilisations corporelles(130 014)(123 762)Total AC6 - Valeurs immobilisées56 63646 490AC6.1 - Ventilation Valeurs immobilisées selon type d'opérationEn K.TNDSolde auValeur bruteAcquisitionsReclassementCessions31.12.2021au 31.12.2022Immobilisations incorporelles19 3871 659(32)-21 014Frais d'établissement189---189Logiciels informatiques18 9771 659(32)-20 604Fonds de commerce221---221Immobilisations corporelles167 48216 58356(224)183 897Immeubles d'exploitation67 335114-(38)67 411Immeubles hors exploitation1 318603--1 921Terrains d'exploitation257---257Terrains hors exploitation1 281---1 281Agencements16 0162 390--18 406Matériel informatique35 269588--35 857Matériels bancaires19 957669--20 626Matériel de transport3 286378-(186)3 478Immobilisations en cours62710 61156-11 294Autre matériel22 1361 230--23 366Total AC6.1 – Ventilation des valeurs186 86918 24224(224)204 911immobilisées selon type d'opérationAC6.2 - Ventilation Valeurs immobilisées selon la valeur brute et netteEn K.TNDAmtsAmtsValeurValeur brutecumulésDotationsReprisescumuléscomptable netteau 31.12.2022au 31.12.2022FY21FY22Immobilisations incorporelles21 01416 6171 644-18 2612 753Frais d'établissement189189--189-Logiciels informatiques20 60416 4281 644-18 0722 532Fonds de commerce221----221Immobilisations corporelles183 897123 7626 454(202)130 01453 883Immeubles d'exploitation67 41146 1781 930(33)48 07519 336Immeubles hors exploitation1 92151259-5711 350Terrains d'exploitation257----257Terrains hors exploitation1 281----1 281Agencements18 40611 391823-12 2146 192Matériel informatique35 85730 8661 268-32 1343 723Matériel bancaire20 62616 647493-17 1403 486Matériel de transport3 4781 913617(169)2 3611 117Immobilisations en cours11 294----11 294"
-"Valeur bruteau 31.12.2022"
-Valeur brute
-au 31.12.2022
-"Valeurcomptable netteau 31.12.2022"
-Valeur
-comptable nette
-"déc.-22déc.-21Amortissements des immobilisations corporelles(130 014)(123 762)Total AC6 - Valeurs immobilisées56 63646 490AC6.1 - Ventilation Valeurs immobilisées selon type d'opérationEn K.TNDSolde auValeur bruteAcquisitionsReclassementCessions31.12.2021au 31.12.2022Immobilisations incorporelles19 3871 659(32)-21 014Frais d'établissement189---189Logiciels informatiques18 9771 659(32)-20 604Fonds de commerce221---221Immobilisations corporelles167 48216 58356(224)183 897Immeubles d'exploitation67 335114-(38)67 411Immeubles hors exploitation1 318603--1 921Terrains d'exploitation257---257Terrains hors exploitation1 281---1 281Agencements16 0162 390--18 406Matériel informatique35 269588--35 857Matériels bancaires19 957669--20 626Matériel de transport3 286378-(186)3 478Immobilisations en cours62710 61156-11 294Autre matériel22 1361 230--23 366Total AC6.1 – Ventilation des valeurs186 86918 24224(224)204 911immobilisées selon type d'opérationAC6.2 - Ventilation Valeurs immobilisées selon la valeur brute et netteEn K.TNDAmtsAmtsValeurValeur brutecumulésDotationsReprisescumuléscomptable netteau 31.12.2022au 31.12.2022FY21FY22Immobilisations incorporelles21 01416 6171 644-18 2612 753Frais d'établissement189189--189-Logiciels informatiques20 60416 4281 644-18 0722 532Fonds de commerce221----221Immobilisations corporelles183 897123 7626 454(202)130 01453 883Immeubles d'exploitation67 41146 1781 930(33)48 07519 336Immeubles hors exploitation1 92151259-5711 350Terrains d'exploitation257----257Terrains hors exploitation1 281----1 281Agencements18 40611 391823-12 2146 192Matériel informatique35 85730 8661 268-32 1343 723Matériel bancaire20 62616 647493-17 1403 486Matériel de transport3 4781 913617(169)2 3611 117Immobilisations en cours11 294----11 294",,,,,
-"",(130 014,,,,
-"",56 63,,,,
-"déc.-22déc.-21Amortissements des immobilisations corporelles(130 014)(123 762)Total AC6 - Valeurs immobilisées56 63646 490AC6.1 - Ventilation Valeurs immobilisées selon type d'opérationEn K.TNDSolde auValeur bruteAcquisitionsReclassementCessions31.12.2021au 31.12.2022Immobilisations incorporelles19 3871 659(32)-21 014Frais d'établissement189---189Logiciels informatiques18 9771 659(32)-20 604Fonds de commerce221---221Immobilisations corporelles167 48216 58356(224)183 897Immeubles d'exploitation67 335114-(38)67 411Immeubles hors exploitation1 318603--1 921Terrains d'exploitation257---257Terrains hors exploitation1 281---1 281Agencements16 0162 390--18 406Matériel informatique35 269588--35 857Matériels bancaires19 957669--20 626Matériel de transport3 286378-(186)3 478Immobilisations en cours62710 61156-11 294Autre matériel22 1361 230--23 366Total AC6.1 – Ventilation des valeurs186 86918 24224(224)204 911immobilisées selon type d'opérationAC6.2 - Ventilation Valeurs immobilisées selon la valeur brute et netteEn K.TNDAmtsAmtsValeurValeur brutecumulésDotationsReprisescumuléscomptable netteau 31.12.2022au 31.12.2022FY21FY22Immobilisations incorporelles21 01416 6171 644-18 2612 753Frais d'établissement189189--189-Logiciels informatiques20 60416 4281 644-18 0722 532Fonds de commerce221----221Immobilisations corporelles183 897123 7626 454(202)130 01453 883Immeubles d'exploitation67 41146 1781 930(33)48 07519 336Immeubles hors exploitation1 92151259-5711 350Terrains d'exploitation257----257Terrains hors exploitation1 281----1 281Agencements18 40611 391823-12 2146 192Matériel informatique35 85730 8661 268-32 1343 723Matériel bancaire20 62616 647493-17 1403 486Matériel de transport3 4781 913617(169)2 3611 117Immobilisations en cours11 294----11 294",,,
-"AmtscumulésDotationsFY21",Reprises,"AmtscumulésFY22","Valeurcomptable netteau 31.12.2022"
-"",Valeur,,
-"",comptable nette,,
-"",au 31.12.2022,,
-"",2 753,,
-"",-,,
-"",2 53,,
-"",22,,
-"",53 883,,
-"",19 336,,
-"",1 350,,
-"",25,,
-"",1 281,,
-"",6 192,,
-"",3 723,,
-"",3 486,,
-"",1 117,,
-"",11 294,,
-Acquisitions,Reclassement,Cessions,"Valeur bruteau 31.12.2022"
-"",Valeur brute,,
-"",21 014,,
-"",18,,
-"",20 604,,
-"",183 897,,
-"",67 411,,
-"",1 921,,
-"",18 406,,
-"",35 857,,
-"",20 626,,
-"",3 478,,
-"",23 366,,
-204 911,,,
-"déc.-22déc.-21Amortissements des immobilisations corporelles(130 014)(123 762)Total AC6 - Valeurs immobilisées56 63646 490AC6.1 - Ventilation Valeurs immobilisées selon type d'opérationEn K.TNDSolde auValeur bruteAcquisitionsReclassementCessions31.12.2021au 31.12.2022Immobilisations incorporelles19 3871 659(32)-21 014Frais d'établissement189---189Logiciels informatiques18 9771 659(32)-20 604Fonds de commerce221---221Immobilisations corporelles167 48216 58356(224)183 897Immeubles d'exploitation67 335114-(38)67 411Immeubles hors exploitation1 318603--1 921Terrains d'exploitation257---257Terrains hors exploitation1 281---1 281Agencements16 0162 390--18 406Matériel informatique35 269588--35 857Matériels bancaires19 957669--20 626Matériel de transport3 286378-(186)3 478Immobilisations en cours62710 61156-11 294Autre matériel22 1361 230--23 366Total AC6.1 – Ventilation des valeurs186 86918 24224(224)204 911immobilisées selon type d'opérationAC6.2 - Ventilation Valeurs immobilisées selon la valeur brute et netteEn K.TNDAmtsAmtsValeurValeur brutecumulésDotationsReprisescumuléscomptable netteau 31.12.2022au 31.12.2022FY21FY22Immobilisations incorporelles21 01416 6171 644-18 2612 753Frais d'établissement189189--189-Logiciels informatiques20 60416 4281 644-18 0722 532Fonds de commerce221----221Immobilisations corporelles183 897123 7626 454(202)130 01453 883Immeubles d'exploitation67 41146 1781 930(33)48 07519 336Immeubles hors exploitation1 92151259-5711 350Terrains d'exploitation257----257Terrains hors exploitation1 281----1 281Agencements18 40611 391823-12 2146 192Matériel informatique35 85730 8661 268-32 1343 723Matériel bancaire20 62616 647493-17 1403 486Matériel de transport3 4781 913617(169)2 3611 117Immobilisations en cours11 294----11 294",,,,,,
-"",,(130 014,,,,
-"",,56 63,,,,
-Acquisitions,Reclassement,Cessions,"Valeur bruteau 31.12.2022",,,
-"",,,Valeur brute,,,
-"",,,au 31.12.2022,,,
-"",,,,21 014,,
-"",,,,18,,
-"",,,,20 604,,
-"",,,,22,,
-"",,,,183 897,,
-"",,,,67 411,,
-"",,,,1 921,,
-"",,,,25,,
-"",,,,1 281,,
-"",,,,18 406,,
-"",,,,35 857,,
-"",,,,20 626,,
-"",,,,3 478,,
-"",,,,11 294,,
-"",,,,23 366,,
-"",,,204 911,,,
-"AmtscumulésDotationsFY21",Reprises,"AmtscumulésFY22","Valeurcomptable netteau 31.12.2022",,,
-"",Valeur,,,,,
-"",comptable nette,,,,,
-"",au 31.12.2022,,,,,
-"",2 753,,,,,
-"",2 53,,,,,
-"",22,,,,,
-"",53 883,,,,,
-"",19 336,,,,,
-"",1 350,,,,,
-"",25,,,,,
-"",1 281,,,,,
-"",6 192,,,,,
-"",3 723,,,,,
-"",3 486,,,,,
-"",1 117,,,,,
-"",11 294,,,,,
-204 911
-"",déc.-22,déc.-21
-"Siège, succursales et agences (1)",1 735,2 045
-Comptes de régularisation,20 034,10 345
-Compensation reçue,5 656,5 145
-Compte d'ajustement devises,6 810,1 196
-"Agios, débits à régulariser et divers",7 568,4 004
-Débiteurs divers,28 054,28 952
-Total AC7 - Autres actifs,49 823,41 342
-"Notes sur les PassifsNote 3.1PA1 - Banque centrale et CCPEn K.TNDdéc.-22déc.-21Emprunts auprès de la Banque Centrale190 000265 000Emprunts en dinars190 000265 000Dettes rattachées357350Total PA1 - Banque centrale et CCP190 357265 350PA1.1 - Ventilation Banque Centrale et CCP (hors dettes rattachées) par durée résiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceEmprunts auprès de la Banque Centrale-190 000---190 000Emprunts en dinars-190 000---190 000Total PA1.1 - Ventilation BCT et CCP (hors dette-190 000---190 000rattachées) par durée résiduelleNote 3.2PA2 - Dépôts et avoirs des établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Dépôts à vue des établissements financiers18 92331 858Banques et correspondants étrangers8 29920 941Organismes financiers spécialisés10 62410 917Emprunts auprès des établissements financiers-563Emprunts en dinars--Emprunts en devises-563Dettes rattachées5849Total PA2 - Dépôts et avoirs des établissements bancaires et financiers18 98132 470Les dépôts et avoirs des établissements bancaires et financiers ne sont pas matérialisés par des titres du marché monétaire.PA2.1 - Ventilation des dépôts et avoirs des établissements bancaires et financiers (hors dettes rattachées) par duréerésiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceDépôts à vue des établissements financiers18 923----18 923Banques et correspondants étrangers8 299----8 299Organismes financiers spécialisés10 624----10 624Emprunts auprès des établissements financiers------Emprunts en devises------Total PA2.1 - Ventilation des dépôts et avoirs desétablissements bancaires et financiers (hors18 923----18 923dettes rattachées) par durée résiduelle"
-"Notes sur les PassifsNote 3.1PA1 - Banque centrale et CCPEn K.TNDdéc.-22déc.-21Emprunts auprès de la Banque Centrale190 000265 000Emprunts en dinars190 000265 000Dettes rattachées357350Total PA1 - Banque centrale et CCP190 357265 350PA1.1 - Ventilation Banque Centrale et CCP (hors dettes rattachées) par durée résiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceEmprunts auprès de la Banque Centrale-190 000---190 000Emprunts en dinars-190 000---190 000Total PA1.1 - Ventilation BCT et CCP (hors dette-190 000---190 000rattachées) par durée résiduelleNote 3.2PA2 - Dépôts et avoirs des établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Dépôts à vue des établissements financiers18 92331 858Banques et correspondants étrangers8 29920 941Organismes financiers spécialisés10 62410 917Emprunts auprès des établissements financiers-563Emprunts en dinars--Emprunts en devises-563Dettes rattachées5849Total PA2 - Dépôts et avoirs des établissements bancaires et financiers18 98132 470Les dépôts et avoirs des établissements bancaires et financiers ne sont pas matérialisés par des titres du marché monétaire.PA2.1 - Ventilation des dépôts et avoirs des établissements bancaires et financiers (hors dettes rattachées) par duréerésiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceDépôts à vue des établissements financiers18 923----18 923Banques et correspondants étrangers8 299----8 299Organismes financiers spécialisés10 624----10 624Emprunts auprès des établissements financiers------Emprunts en devises------Total PA2.1 - Ventilation des dépôts et avoirs desétablissements bancaires et financiers (hors18 923----18 923dettes rattachées) par durée résiduelle",,,,,
-"",18 923,,,,
-"",8 299,,,,
-"",10 624,,,,
-"",-,,,,
-"",58,,,,
-"",18 981,,,,
-18 923
-18 92
-"Notes sur les PassifsNote 3.1PA1 - Banque centrale et CCPEn K.TNDdéc.-22déc.-21Emprunts auprès de la Banque Centrale190 000265 000Emprunts en dinars190 000265 000Dettes rattachées357350Total PA1 - Banque centrale et CCP190 357265 350PA1.1 - Ventilation Banque Centrale et CCP (hors dettes rattachées) par durée résiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceEmprunts auprès de la Banque Centrale-190 000---190 000Emprunts en dinars-190 000---190 000Total PA1.1 - Ventilation BCT et CCP (hors dette-190 000---190 000rattachées) par durée résiduelleNote 3.2PA2 - Dépôts et avoirs des établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Dépôts à vue des établissements financiers18 92331 858Banques et correspondants étrangers8 29920 941Organismes financiers spécialisés10 62410 917Emprunts auprès des établissements financiers-563Emprunts en dinars--Emprunts en devises-563Dettes rattachées5849Total PA2 - Dépôts et avoirs des établissements bancaires et financiers18 98132 470Les dépôts et avoirs des établissements bancaires et financiers ne sont pas matérialisés par des titres du marché monétaire.PA2.1 - Ventilation des dépôts et avoirs des établissements bancaires et financiers (hors dettes rattachées) par duréerésiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceDépôts à vue des établissements financiers18 923----18 923Banques et correspondants étrangers8 299----8 299Organismes financiers spécialisés10 624----10 624Emprunts auprès des établissements financiers------Emprunts en devises------Total PA2.1 - Ventilation des dépôts et avoirs desétablissements bancaires et financiers (hors18 923----18 923dettes rattachées) par durée résiduelle",,,,,,
-"",190 00,,,,,
-"",35,,,,,
-190 35,,,,,,
-"Notes sur les PassifsNote 3.1PA1 - Banque centrale et CCPEn K.TNDdéc.-22déc.-21Emprunts auprès de la Banque Centrale190 000265 000Emprunts en dinars190 000265 000Dettes rattachées357350Total PA1 - Banque centrale et CCP190 357265 350PA1.1 - Ventilation Banque Centrale et CCP (hors dettes rattachées) par durée résiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceEmprunts auprès de la Banque Centrale-190 000---190 000Emprunts en dinars-190 000---190 000Total PA1.1 - Ventilation BCT et CCP (hors dette-190 000---190 000rattachées) par durée résiduelleNote 3.2PA2 - Dépôts et avoirs des établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Dépôts à vue des établissements financiers18 92331 858Banques et correspondants étrangers8 29920 941Organismes financiers spécialisés10 62410 917Emprunts auprès des établissements financiers-563Emprunts en dinars--Emprunts en devises-563Dettes rattachées5849Total PA2 - Dépôts et avoirs des établissements bancaires et financiers18 98132 470Les dépôts et avoirs des établissements bancaires et financiers ne sont pas matérialisés par des titres du marché monétaire.PA2.1 - Ventilation des dépôts et avoirs des établissements bancaires et financiers (hors dettes rattachées) par duréerésiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceDépôts à vue des établissements financiers18 923----18 923Banques et correspondants étrangers8 299----8 299Organismes financiers spécialisés10 624----10 624Emprunts auprès des établissements financiers------Emprunts en devises------Total PA2.1 - Ventilation des dépôts et avoirs desétablissements bancaires et financiers (hors18 923----18 923dettes rattachées) par durée résiduelle",,,,
-≤ 3 mois,]3mois-1an],]1an-5ans],> 5 ans,déc.-22
-"",18 92,,,
-"",8 29,,,
-"",10 62,,,
-18 923,,,,
-18 92,,,,
-190 000
-190 00
-"Notes sur les PassifsNote 3.1PA1 - Banque centrale et CCPEn K.TNDdéc.-22déc.-21Emprunts auprès de la Banque Centrale190 000265 000Emprunts en dinars190 000265 000Dettes rattachées357350Total PA1 - Banque centrale et CCP190 357265 350PA1.1 - Ventilation Banque Centrale et CCP (hors dettes rattachées) par durée résiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceEmprunts auprès de la Banque Centrale-190 000---190 000Emprunts en dinars-190 000---190 000Total PA1.1 - Ventilation BCT et CCP (hors dette-190 000---190 000rattachées) par durée résiduelleNote 3.2PA2 - Dépôts et avoirs des établissements bancaires et financiersEn K.TNDdéc.-22déc.-21Dépôts à vue des établissements financiers18 92331 858Banques et correspondants étrangers8 29920 941Organismes financiers spécialisés10 62410 917Emprunts auprès des établissements financiers-563Emprunts en dinars--Emprunts en devises-563Dettes rattachées5849Total PA2 - Dépôts et avoirs des établissements bancaires et financiers18 98132 470Les dépôts et avoirs des établissements bancaires et financiers ne sont pas matérialisés par des titres du marché monétaire.PA2.1 - Ventilation des dépôts et avoirs des établissements bancaires et financiers (hors dettes rattachées) par duréerésiduelleEn K.TNDSans≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22échéanceDépôts à vue des établissements financiers18 923----18 923Banques et correspondants étrangers8 299----8 299Organismes financiers spécialisés10 624----10 624Emprunts auprès des établissements financiers------Emprunts en devises------Total PA2.1 - Ventilation des dépôts et avoirs desétablissements bancaires et financiers (hors18 923----18 923dettes rattachées) par durée résiduelle",,,,,,,,
-"",,,,déc.-22,,,déc.-21,
-"",,,,,,,,
-"",,190 00,,,,,,
-"",,,190 00,,,,,
-"",,,35,,,,,
-"",,190 35,,,,,,
-≤ 3 mois,]3mois-1an],]1an-5ans],> 5 ans,déc.-22,,,,
-"",,,,déc.-22,,,,
-"",,,,,190 00,,,
-"",,,,190 000,,,,
-"",,,,190 00,,,,
-"",,,déc.-22,,,déc.-21,,
-"",,,18 923,,,,,
-"",,,8 299,,,,,
-"",,,10 624,,,,,
-"",,,-,,,,,
-"",,,58,,,,,
-"",,,18 981,,,,,
-"",déc.-22,,,,,,,
-"",18 92,,,,,,,
-"",8 29,,,,,,,
-"",10 62,,,,,,,
-18 923,,,,,,,,
-18 92,,,,,,,,
-"",190 00,,,
-190 000,,,,
-190 00,,,,
-"",Entreprises,Entreprises,Co-,Autres clientèles,déc.-22
-"",liées,associées,entreprises,,
-Dépôts à vue des établissements financiers,-,-,-,,18 92318 923
-Banques et correspondants étrangers,-,-,-,,8 2998 299
-Organismes financiers spécialisés,-,-,-,,10 62410 624
-Emprunts auprès des établissements financiers,-,-,-,,- -
-Emprunts en dinars,-,-,-,,- -
-Emprunts en devises,-,-,-,,- -
-Total PA2.2 - Ventilation des dépôts et avoirs des,,,,,
-établissements bancaires et financiers (hors dettes,-,-,-,,18 92318 923
-Note 3.3,,,,,
-PA3 - Dépôts et avoirs de la clientèle,,,,,
-"",,,,déc.-22,déc.-21
-Comptes à vue,,,,1 556 129,1 458 510
-Comptes d'épargne,,,,1 756 102,1 644 477
-Comptes spéciaux d'épargne,,,,1 740 633,1 628 039
-Autres comptes d'épargne,,,,15 469,16 438
-Dépôts à terme,,,,1 792 034,1 400 536
-Comptes à terme,,,,1 137 296,870 160
-Bons de caisse,,,,21 100,29 360
-Certificats de dépôts,,,,511 000,431 500
-Pensions livrées,,,,122 638,69 516
-Autres sommes dues à la clientèle,,,,145 281,95 870
-Dettes rattachées aux comptes de la clientèle,,,,56 133,34 660
-Total PA3 - Dépôts et avoirs de la clientèle,,,,5 305 679,4 634 053
-PA3.1 - Ventilation des dépôts et avoirs de la clientèle (hors dettes rattachées) par durée résiduelle,,,,,
-"",Sans ≤ 3 mois,]3mois-1an],]1an-5ans],,> 5 ans déc.-22
-échéance,,,,,
-Comptes à vue,-  1 273 570,282 559,,-,-  1 556 129
-Comptes d'épargne,-,-    175 610,1 580 492,,-  1 756 102
-Comptes spéciaux d'épargne,-,-    174 063,1 566 570,,-  1 740 633
-Autres comptes d'épargne,-,-,1 547,13 922,-  15 469
-Dépôts à terme,-    1 174 606,585 805,,31 623,-  1 792 034
-Comptes à terme,-    617 528,496 645,,23 123,-  1 137 296
-Bons de caisse,-,7 440,6 660,7 000,-  21 100
-Certificats de dépôts,-    427 000,82 500,,1 500,-    511 000
-Pensions livrées,-  122 638,,-,-,-  122 638
-Autres sommes dues à la clientèle,-  28 766,116 515,,-,-  145 281
-Total PA3.1 - Ventilation des dépôts et avoirs de,,,,,
-la clientèle (hors dette rattachées) par durée,-  2 476 942,1 160 489,1 612 115,,-  5 249 546
-résiduelle,,,,,
-"PA3.2 - Ventilation des dépôts et avoirs de la clientèle (hors dettes rattachées) par type de contrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes à vue2 82218 433-1 534 874       1    556 129Comptes d'épargne---1 756 102       1    756 102Comptes spéciaux d'épargne---1 740 633       1    740 633Autres comptes d'épargne---15 469            15 469Dépôts à terme224 35596 066-1 471 613       1    792 034Comptes à terme181 85558 066-897 375       1    137 296Bons de caisse---21 100            21 100Certificats de dépôts42 50038 000-430 500           511 000Pensions livrées---122 638           122 638Autres sommes dues à la clientèle---145 281           145 281Total PA3.2 - Ventilation des dépôts et avoirs de laclientèle (hors dettes rattachées) par type de227 177114 499-4 907 870       5    249 546contrepartieNote 3.4PA4 - Emprunts et ressources spécialesEn K.TNDdéc.-22déc.-21Emprunts et ressources spéciales320 921392 663Ressources extérieures308 873381 356Ressources budgétaires12 04811 307Dettes rattachées3 0763 450Total PA4 - Emprunts et ressources spéciales323 997396 113PA4.1 - Ventilation des emprunts et ressources spéciales (hors dettes rattachées) par durée résiduelleEn K.TND≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22Emprunts et ressources spéciales12 90389 195180 87137 952320 921PA4.2 - Ventilation des emprunts et ressources spéciales (hors dettes rattachées) par nature de relationEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèleEmprunts et ressources spéciales---320 921320 921"
-"PA3.2 - Ventilation des dépôts et avoirs de la clientèle (hors dettes rattachées) par type de contrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes à vue2 82218 433-1 534 874       1    556 129Comptes d'épargne---1 756 102       1    756 102Comptes spéciaux d'épargne---1 740 633       1    740 633Autres comptes d'épargne---15 469            15 469Dépôts à terme224 35596 066-1 471 613       1    792 034Comptes à terme181 85558 066-897 375       1    137 296Bons de caisse---21 100            21 100Certificats de dépôts42 50038 000-430 500           511 000Pensions livrées---122 638           122 638Autres sommes dues à la clientèle---145 281           145 281Total PA3.2 - Ventilation des dépôts et avoirs de laclientèle (hors dettes rattachées) par type de227 177114 499-4 907 870       5    249 546contrepartieNote 3.4PA4 - Emprunts et ressources spécialesEn K.TNDdéc.-22déc.-21Emprunts et ressources spéciales320 921392 663Ressources extérieures308 873381 356Ressources budgétaires12 04811 307Dettes rattachées3 0763 450Total PA4 - Emprunts et ressources spéciales323 997396 113PA4.1 - Ventilation des emprunts et ressources spéciales (hors dettes rattachées) par durée résiduelleEn K.TND≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22Emprunts et ressources spéciales12 90389 195180 87137 952320 921PA4.2 - Ventilation des emprunts et ressources spéciales (hors dettes rattachées) par nature de relationEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèleEmprunts et ressources spéciales---320 921320 921",,,
-]3mois-1an],]1an-5ans],> 5 ans,déc.-22
-"",320 921,,
-"PA3.2 - Ventilation des dépôts et avoirs de la clientèle (hors dettes rattachées) par type de contrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes à vue2 82218 433-1 534 874       1    556 129Comptes d'épargne---1 756 102       1    756 102Comptes spéciaux d'épargne---1 740 633       1    740 633Autres comptes d'épargne---15 469            15 469Dépôts à terme224 35596 066-1 471 613       1    792 034Comptes à terme181 85558 066-897 375       1    137 296Bons de caisse---21 100            21 100Certificats de dépôts42 50038 000-430 500           511 000Pensions livrées---122 638           122 638Autres sommes dues à la clientèle---145 281           145 281Total PA3.2 - Ventilation des dépôts et avoirs de laclientèle (hors dettes rattachées) par type de227 177114 499-4 907 870       5    249 546contrepartieNote 3.4PA4 - Emprunts et ressources spécialesEn K.TNDdéc.-22déc.-21Emprunts et ressources spéciales320 921392 663Ressources extérieures308 873381 356Ressources budgétaires12 04811 307Dettes rattachées3 0763 450Total PA4 - Emprunts et ressources spéciales323 997396 113PA4.1 - Ventilation des emprunts et ressources spéciales (hors dettes rattachées) par durée résiduelleEn K.TND≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22Emprunts et ressources spéciales12 90389 195180 87137 952320 921PA4.2 - Ventilation des emprunts et ressources spéciales (hors dettes rattachées) par nature de relationEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèleEmprunts et ressources spéciales---320 921320 921",,,,,
-"",320 921,,,,
-"",308 873,,,,
-"",12 048,,,,
-"",3 076,,,,
-"",323 997,,,,
-"",1    556 129,,
-"",1    756 102,,
-"",1    740 633,,
-"",15 469,,
-"",1    792 034,,
-"",1    137 296,,
-"",21 100,,
-"",511 000,,
-"",122 638,,
-"",145 281,,
-5    249 546,,,
-"Entreprisesassociées","Co-entreprises","Autreclientèle",déc.-22
-"PA3.2 - Ventilation des dépôts et avoirs de la clientèle (hors dettes rattachées) par type de contrepartieEn K.TNDEntreprisesEntreprisesCo-Autresdéc.-22liéesassociéesentreprisesclientèlesComptes à vue2 82218 433-1 534 874       1    556 129Comptes d'épargne---1 756 102       1    756 102Comptes spéciaux d'épargne---1 740 633       1    740 633Autres comptes d'épargne---15 469            15 469Dépôts à terme224 35596 066-1 471 613       1    792 034Comptes à terme181 85558 066-897 375       1    137 296Bons de caisse---21 100            21 100Certificats de dépôts42 50038 000-430 500           511 000Pensions livrées---122 638           122 638Autres sommes dues à la clientèle---145 281           145 281Total PA3.2 - Ventilation des dépôts et avoirs de laclientèle (hors dettes rattachées) par type de227 177114 499-4 907 870       5    249 546contrepartieNote 3.4PA4 - Emprunts et ressources spécialesEn K.TNDdéc.-22déc.-21Emprunts et ressources spéciales320 921392 663Ressources extérieures308 873381 356Ressources budgétaires12 04811 307Dettes rattachées3 0763 450Total PA4 - Emprunts et ressources spéciales323 997396 113PA4.1 - Ventilation des emprunts et ressources spéciales (hors dettes rattachées) par durée résiduelleEn K.TND≤ 3 mois]3mois-1an]]1an-5ans]> 5 ansdéc.-22Emprunts et ressources spéciales12 90389 195180 87137 952320 921PA4.2 - Ventilation des emprunts et ressources spéciales (hors dettes rattachées) par nature de relationEn K.TNDEntreprisesEntreprisesCo-Autredéc.-22liéesassociéesentreprisesclientèleEmprunts et ressources spéciales---320 921320 921",,,,,,
-"",,,,,1    556 129,
-"",,,,,1    756 102,
-"",,,,,1    740 633,
-"",,,,,15 469,
-"",,,,,1    792 034,
-"",,,,,1    137 296,
-"",,,,,21 100,
-"",,,,,511 000,
-"",,,,,122 638,
-"",,,,,145 281,
-"",,,,5    249 546,,
-"",320 921,,,,,
-"",,308 873,,,,
-"",,12 048,,,,
-"",,3 076,,,,
-"",,323 997,,,,
-]3mois-1an],]1an-5ans],> 5 ans,déc.-22,,,
-"",,,,320 921,,
-"Entreprisesassociées","Co-entreprises","Autreclientèle",déc.-22,,,
-5    249 546
-Comptes de régularisation,98 264,115 041
-Compensation à régler,74 553,96 515
-Comptes d'ajustement devises,1 442,1 185
-"Agios, crédits à régulariser et divers",22 227,16 680
-"Siège, succursales et agences",42,661
-Provisions,14 096,36 630
-Provisions pour risques et charges diverses,5 757,28 479
-Provisions pour congés payés,2 635,2 475
-Provisions pour créances en hors bilan,5 704,5 676
-Créditeurs divers,52 572,47 391
-Créditeurs sur opérations d'impôt,21 721,16 604
-Créditeurs sur opérations CNSS & Assurance,6 377,5 512
-Créditeurs sur opérations BCT,401,426
-Créditeurs sur opérations avec le personnel,17 064,16 466
-Créditeurs sur opérations sur titres,1 759,1 689
-Chèques à payer,4 200,5 882
-Autres créditeurs,1 050,812
-Total PA5 - Autres Passifs,164 932,199 062
-Capital social,270 000,225 000
-Réserves,765 283,715 283
-Réserves légales,22 500,22 500
-Réserves statutaires,333 264,325 753
-Réserves pour réinvestissements exonérés,409 519,367 030
-Report à nouveau,4 983,1 621
-Résultat de l'exercice,166 317,161 362
-Total Capitaux Propres,1 206 583,1 103 266
-"",,,,Réserves à,Réserves,,,,,
-"",Capital,Réserves,Réserves,,,Report à,Autres,,Résultat de,
-"",,,,régime,pour réinv.,,,,,Total
-"",social,légales,statutaires,,,nouveau,réserves,,l'exercice,
-"",,,,spécial,exonérés,,,,,
-"",,,,,,,,,,
-Capitaux propres au 31.12.2020,225 000,22 500,138 338,-,424 445,108 083,,-,102 288,1 020 654
-Affectation du résultat N-1,-,-,130 000,-,-,(27 712),,-,(102 288),-
-Reclassement réserves,-,-,57 415,-,(57 415),-,,-,-,-
-Dividendes distribués,-,-,-,-,-,(78 750),,-,-,(78 750)
-Résultat de l'exercice 2021,-,-,-,-,-,-,,-,161 362,161 362
-Capitaux propres au 31.12.2021,225 000,22 500,325 753,-,367 030,1 621,,-,161 362,1 103 266
-Augmentation de capital,45 000,-,(45 000),-,-,-,,-,,-
-Affectation du résultat N-1,,-,45 000,-,50 000,66 362,,-,(161 362),-
-Reclassement réserves,-,-,7 511,-,(7 511),-,,-,-,-
-Dividendes distribués,,,-,,,(63 000),,-,-,(63 000)
-Résultat de l'exercice 2022,-,-,-,-,-,-,,-,166 317,166 317
-Capitaux propres au 31.12.2022,270 000,22 500,333 264,-,409 519,4 983,,-,166 317,1 206 583
-"Notes sur les engagements hors bilanNote 4.1HB1 - Cautions, avals et autres garanties donnéesEn K.TNDdéc.-22déc.-21En faveur des établissements bancaires et financiers298 455248 565En faveur de la clientèle499 487404 309Total797 942652 874Toutes les opérations sont effectuées en hors groupe.Note 4.2HB2 - Crédits documentairesEn K.TNDdéc.-22déc.-21Ouverture de crédits documentaires246 712304 551Acceptations à payer160 536149 446Total407 248453 997Toutes les opérations sont effectuées en hors groupe.Note 4.3HB3 - Actifs donnés en garantieEn K.TNDdéc.-22déc.-21Titres d'État / Appel d'offres BCT & pensions livrées184 548160 059Créances mobilisées / Appel d'offres BCT130 990175 531Total315 538335 590Note 4.4HB4 - Engagements de financement donnésEn K.TNDdéc.-22déc.-21Crédits en TND notifiés et non utilisés197 930186 632Total197 930186 632Toutes les opérations sont effectuées en hors groupeHB4.1 – Ventilation des engagements de financement donnés par type de contrepartieEn K.TNDdéc.-22déc.-21En faveur de la clientèle197 930186 632Total197 930186 632",,,,,,
-"",déc.-22,,,,déc.-21,
-"",184 54,,,,,
-"",130 99,,,,,
-"",315 53,,,,,
-"Notes sur les engagements hors bilanNote 4.1HB1 - Cautions, avals et autres garanties donnéesEn K.TNDdéc.-22déc.-21En faveur des établissements bancaires et financiers298 455248 565En faveur de la clientèle499 487404 309Total797 942652 874Toutes les opérations sont effectuées en hors groupe.Note 4.2HB2 - Crédits documentairesEn K.TNDdéc.-22déc.-21Ouverture de crédits documentaires246 712304 551Acceptations à payer160 536149 446Total407 248453 997Toutes les opérations sont effectuées en hors groupe.Note 4.3HB3 - Actifs donnés en garantieEn K.TNDdéc.-22déc.-21Titres d'État / Appel d'offres BCT & pensions livrées184 548160 059Créances mobilisées / Appel d'offres BCT130 990175 531Total315 538335 590Note 4.4HB4 - Engagements de financement donnésEn K.TNDdéc.-22déc.-21Crédits en TND notifiés et non utilisés197 930186 632Total197 930186 632Toutes les opérations sont effectuées en hors groupeHB4.1 – Ventilation des engagements de financement donnés par type de contrepartieEn K.TNDdéc.-22déc.-21En faveur de la clientèle197 930186 632Total197 930186 632",,,,,
-"",197 93,,,,
-"",246 71,,,,
-"",160 53,,,,
-"",298 455,,,,,
-"",499 487,,,,,
-"",797 942,,,,,
-"",246 71,,,,,
-"",160 53,,,,,
-"",407 24,,,,,
-"",197 93,,,,,
-"",298 455,,,,
-"",499 487,,,,
-"",797 942,,,,
-"Note 4.5HB6 - Engagements de financement reçusEn K.TNDdéc.-22déc.-21Emprunts en devises à court terme notifiés non utilisés-1 237Total-                   1 237Toutes les opérations sont effectuées en hors groupeHB6.1 – Ventilation des engagements de financement reçus par type de contrepartieEn K.TNDdéc.-22déc.-21Reçus des établissements bancaires et financiers--Reçus de la clientèle-                   1 237Total-1 237Note 4.6HB7 - Garanties reçuesEn K.TNDdéc.-22déc.-21Garanties reçues de l'État232 471105 699Garanties reçues du fonds national de garantie & SOTUGAR5 9426 995Garanties reçues des organismes d'assurances et des banques43 62044 266Garanties reçues sous forme d'actifs financiers113 870115 870Garanties hypothécaires2 334 6102 232 767Contre-garanties reçues des établissements financiers127 338116 736Total2 857 8512 622 333Il est à noter que les garanties reçues sous forme de dépôts affectés totalisent, au 31 décembre 2022, un montant de76.918 KDT.",,,,,
-"",232 471,,,,
-"",5 942,,,,
-"",43 620,,,,
-"",113 870,,,,
-"",2 334 610,,,,
-"",127 338,,,,
-"",2 857 851,,,,
-"Notes sur le résultatNote 5.1PR1 - Intérêts et revenus assimilésEn K.TNDdéc.-22déc.-21Produits sur opérations interbancaires7 6584 986Produits sur opérations avec la clientèle483 500436 640Revenus des opérations de crédits408 353373 320Revenus des comptes débiteurs42 63137 970Commissions sur avals et cautions7 6816 244Report déport sur change à terme13 7018 196Produits sur opérations de leasing11 13410 910Total PR1 - Intérêts et revenus assimilés491 158441 626Note 5.2PR2 - CommissionsEn K.TNDdéc.-22déc.-21Commissions sur comptes15 62115 645Opérations guichet et opérations diverses3 6913 423Opérations sur titres5 3984 371Opérations avec l'étranger8 0277 437Commissions sur moyens de paiement21 08517 698Commissions de gestion23 40121 907Total PR2 - Commissions77 22370 481Note 5.3PR3 - Gains sur portefeuille-titres commercial et opérations financièresEn K.TNDdéc.-22déc.-21Gains nets sur titres de transaction3 8372 905Intérêts sur titres de transactions3 8372 844Plus-value de cessions sur titres de transactions-61Gains nets sur opérations de change27 41518 675Différences de change sur opérations monétiques(1 096)(899)Produits sur change manuel3 2911 967Produits sur opérations de change au comptant25 22017 607Bénéfices sur opérations de change à terme--Total PR3 - Gains sur portefeuille-titres commercial et opérations financières31 25221 580",,,,,
-"",7 65,,,,
-"",483 50,,,,
-"",408 35,,,,
-"",42 63,,,,
-"",7 68,,,,
-"",13 70,,,,
-"",11 13,,,,
-"",491 15,,,,
-15 621,,,,,
-"",15 62,,,,
-"",3 69,,,,
-"",5 39,,,,
-"",8 02,,,,
-"",21 08,,,,
-"",23 40,,,,
-"",77 22,,,,
-"",3 83,,,,
-"",27 41,,,,
-"",(1 096,,,,
-"",3 29,,,,
-"",25 22,,,,
-"",31 25,,,,
-"Notes sur le résultatNote 5.1PR1 - Intérêts et revenus assimilésEn K.TNDdéc.-22déc.-21Produits sur opérations interbancaires7 6584 986Produits sur opérations avec la clientèle483 500436 640Revenus des opérations de crédits408 353373 320Revenus des comptes débiteurs42 63137 970Commissions sur avals et cautions7 6816 244Report déport sur change à terme13 7018 196Produits sur opérations de leasing11 13410 910Total PR1 - Intérêts et revenus assimilés491 158441 626Note 5.2PR2 - CommissionsEn K.TNDdéc.-22déc.-21Commissions sur comptes15 62115 645Opérations guichet et opérations diverses3 6913 423Opérations sur titres5 3984 371Opérations avec l'étranger8 0277 437Commissions sur moyens de paiement21 08517 698Commissions de gestion23 40121 907Total PR2 - Commissions77 22370 481Note 5.3PR3 - Gains sur portefeuille-titres commercial et opérations financièresEn K.TNDdéc.-22déc.-21Gains nets sur titres de transaction3 8372 905Intérêts sur titres de transactions3 8372 844Plus-value de cessions sur titres de transactions-61Gains nets sur opérations de change27 41518 675Différences de change sur opérations monétiques(1 096)(899)Produits sur change manuel3 2911 967Produits sur opérations de change au comptant25 22017 607Bénéfices sur opérations de change à terme--Total PR3 - Gains sur portefeuille-titres commercial et opérations financières31 25221 580"
-15 621
-15 62
-"Note 5.4PR4 - Revenus du portefeuille d'investissementEn K.TNDdéc.-22déc.-21Revenus des obligations et des Bons du Trésor72 00953 811Revenus des titres de participation3 2053 024Revenus des parts dans les entreprises associées1 9563 902Revenus des parts dans les entreprises liées15 71010 592Total PR4 - Revenus du portefeuille d'investissement92 88071 329Note 5.5CH 1 - Intérêts encourus et charges assimiléesEn K.TNDdéc.-22déc.-21Charges sur opérations interbancaires12 48311 115Intérêts sur les dépôts de la clientèle227 283186 329Intérêts sur emprunts et ressources spéciales20 91225 649Total CH 1 - Intérêts encourus et charges assimilées260 678223 093Note 5.6CH2 - Commissions encouruesEn K.TNDdéc.-22déc.-21Charges sur opérations de retrait monétique6 1292 992Frais d'interchange émis1 3561 092Autres commissions493220Total CH2 - Commissions encourues7 9784 304Note 5.7PR5/CH4 - Dotations aux provisions et corrections de valeurs sur créances et passifsEn K.TNDdéc.-22déc.-21Dotations nettes aux provisions pour dépréciation des créances38 4948 879Dotations nettes aux provisions pour passifs2 2084 681Pertes sur créances irrécouvrables794485Récupération sur créances comptabilisées en perte(1 016)(368)Total PR5/CH4 - Dotations aux provisions et corrections de valeurs sur créances et passifs40 48013 677",,,,,
-72 009,,,,,
-"",72 009,,,,
-"",3 205,,,,
-"",1 956,,,,
-"",15 710,,,,
-"",92 880,,,,
-"Note 5.4PR4 - Revenus du portefeuille d'investissementEn K.TNDdéc.-22déc.-21Revenus des obligations et des Bons du Trésor72 00953 811Revenus des titres de participation3 2053 024Revenus des parts dans les entreprises associées1 9563 902Revenus des parts dans les entreprises liées15 71010 592Total PR4 - Revenus du portefeuille d'investissement92 88071 329Note 5.5CH 1 - Intérêts encourus et charges assimiléesEn K.TNDdéc.-22déc.-21Charges sur opérations interbancaires12 48311 115Intérêts sur les dépôts de la clientèle227 283186 329Intérêts sur emprunts et ressources spéciales20 91225 649Total CH 1 - Intérêts encourus et charges assimilées260 678223 093Note 5.6CH2 - Commissions encouruesEn K.TNDdéc.-22déc.-21Charges sur opérations de retrait monétique6 1292 992Frais d'interchange émis1 3561 092Autres commissions493220Total CH2 - Commissions encourues7 9784 304Note 5.7PR5/CH4 - Dotations aux provisions et corrections de valeurs sur créances et passifsEn K.TNDdéc.-22déc.-21Dotations nettes aux provisions pour dépréciation des créances38 4948 879Dotations nettes aux provisions pour passifs2 2084 681Pertes sur créances irrécouvrables794485Récupération sur créances comptabilisées en perte(1 016)(368)Total PR5/CH4 - Dotations aux provisions et corrections de valeurs sur créances et passifs40 48013 677"
-72 009
-"",12 48,,,,
-"",227 28,,,,
-"",20 91,,,,
-"",260 67,,,,
-"",6 12,,,,
-"",1 35,,,,
-"",49,,,,
-"",7 97,,,,
-"",38 494,,,,
-"",2 208,,,,
-"",79,,,,
-"",(1 016),,,,
-"",40 480,,,,
-Dotations nettes aux provisions pour dépréciation des titres en portefeuille,1 665,10 159
-Pertes subies sur les titres en portefeuille,199,896
-Plus-values réalisées sur titres en portefeuille,(740),(13 974)
-Frais de gestion du portefeuille,7 570,4 823
-Total PR6/CH5 – Dot. aux prov. et corrections de valeurs sur portefeuille d'invest.,8 694,1 904
-Note 5.9,,
-PR7 - Autres produits d'exploitation,,
-En K.TND,,
-Revenus des immeubles,767,739
-Autres,438,408
-Total PR7 - Autres produits d'exploitation,1 205,1 147
-Note 5.10,,
-CH6 - Frais du Personnel,,
-Charges de fonctionnement,77 891,68 876
-Masse salariale,61 778,54 453
-Charges sociales,14 860,13 310
-Charges fiscales,1 253,1 113
-Avantages au personnel,24 500,24 717
-Dotation au régime d'intéressement,16 647,16 236
-Prime de départ à la retraite,4 033,5 230
-Autres charges sociales liées au personnel,3 820,3 251
-Récupération sur personnel en détachement,(2 954),(924)
-Total CH6 - Frais du Personnel,99 437,92 669
-Note 5.11,,
-CH7 - Charges générales d'exploitation,,
-"",,
-Télécommunication & courriers,1 768,1 618
-Maintenance et entretien,4 605,4 166
-Services externes d'exploitation,8 968,6 872
-Achats de biens consommables,3 180,2 709
-"Communication, marketing et documentation",945,591
-"Assurances, droits et taxes",13 990,12 912
-Jetons de présence au conseil d'administration,549,470
-Autres services extérieurs,3 425,3 693
-Total CH7 - Charges générales d'exploitation,37 430,33 031
-Frais d’exploitation non bancaire,34 931,30 804
-Autres charges générales d'exploitation,2 499,2 227
-Note 5.12,,
-CH8 - Dotations aux amortissements sur immobilisations,,
-Dotations aux amortissements des immobilisations incorporelles,1 644,1 583
-Dotations aux amortissements des immobilisations corporelles,6 454,6 812
-Total CH8 - Dotations aux amortissements,8 098,8 395
-Note 5.13,,
-PR8/CH9 - Solde en gain / perte provenant des autres éléments ordinaires,,
-Plus ou moins-value sur cession d'éléments d'actifs immobilisés,284,540
-Autres gains ou pertes ordinaires,(91),(7 394)
-Total PR8/CH9 - Solde en gain / perte provenant des autres éléments ordinaires,193,(6 854)
-Note 5.14,,
-CH11 - Impôts sur les bénéfices,,
-Impôts sur les sociétés,58 151,56 068
-Contribution sociale de solidarité,6 648,4 806
-Total CH11 - Impôts sur les bénéfices,64 799,60 874
-Engagements,Engagements,Total,Revenus
-Bilan,hors bilan,Engagements,réservés
-"",déc.-22,% Risque BT
-Crédits sur ressources budgétaire,8 158,
-Dotation FONAPRA,766,0%
-Fonds Taahil,295,100%
-Crédit premier logement,5 787,0%
-Ligne BCT AR PME,504,100%
-DOTATION BUDG-300MTND-COVID,806,0%
-Crédits sur ressources extérieures,226 816,
-LIGNE ITALIE-73M.EUR-C2013/06ROS,2 529,100%
-LIGNE BEI PGVI TR1-100M.EUR-FI N,12 316,100%
-LIGNE BERD-30M.EUR-Cv.46342,1 565,100%
-LIGNE ESP-18.030M.EUR-C.2002/06,88,100%
-LIGNE KFW-50M.EUR-CV.2011-6,10 019,100%
-LIGNE BEI PGVI TR2-100M.EUR-CV.82396,18 732,100%
-LIGNE BEI-50M.EUR-CV85177,61 704,100%
-LIGNE BERD 50M.EUR LOAN II-CV49541,29 918,100%
-LIGNE BEI PGVI TR3-100M.EUR,56 202,100%
-LIGNE BEI PGVI TR4-100M.EUR,30 586,100%
-LIGNE FADES 20 MUSD,3 157,100%
-Total,234 974,
-"",Refinançable,,Non,déc.-22
-"",,,Refinançable,
-Comptes ordinaires débiteurs,-,,330 646,330 646
-Crédits sur ressources ordinaires,604 316,,4 081 580,4 685 896
-Créances sur crédit-bail,-,,108 123,108 123
-Avances sur comptes à terme et bons de caisse,-,,7 086,7 086
-Crédits sur ressources spéciales,387,,234 587,234 974
-Créances impayés douteuses,-,,339 856,339 856
-Total,604 703,,5 101 878,5 706 581
-Dettes rattachées 58,49
-Dépôts des établissements financiers 10 624,10 917
-Emprunts auprès des établissements financiers 10 624,10 917
-Total 18 981,32 470
-Note 7.12,
-Ventilation des dépôts et avoirs des établissements bancaires et financiers par type de dette (matérialisée,
-par des titres ou non matérialisée),
-En K.TND,
-Non,
-Matérialisées matérialisées,déc.-22
-par des titres,
-Dépôts à vue des établissements financiers -18 923,18 923
-Banques et correspondants étrangers -  8 299,8 299
-Organismes financiers spécialisés -10 624,10 624
-Emprunts auprès des établissements financiers --,-
-"",
-Emprunts en dinars -  -,-
-Emprunts en devises --,-
-Total  -  18 923,18 923
-"Note 7.13Données d'identification des sociétés rentrant dans le périmètre de consolidationEn K.TNDdéc.-22déc.-21TotalTotalCapitalRésultatCapitalRésultatBilanBilanAstree30 000764 43017 10430 000686 76421 056Société du pôle de compétitivité de Bizerte15 00018 206(306)         15 00018 969732Placements de Tunisie Sicaf10 00018 2373 169         10 00018 9723 957Générale de participation SICAF20 00024 5612 06220 00022 998242Banque de Tunisie SICAR5 000344 2704 1715 000331 9544 025Transport de fonds de Tunisie100281(7)100377149La foncière des oliviers FOSA125523157125567173Société de participation et de promotion des7601 712467601 66544investissementsSPFT Carthago45 50359 6294 34645 50355 915929Société Club Aquarius de Nabeul3 65211 3532623 65211 09068Sicav Croissance14 89215 6391 83913 12013 818663Sicav Rendement434 386457 00525 364405 523425 35924 524Société de Bourse de Tunis1 0003 637651 0002 45956Générale immobilière de Tunisie8 0008 6491578 0008 827255Note 7.14Ventilation des actifs donnés en garantie et dettes respectivesEn K.TNDdéc.-22Dettes - PA1Dettes - PA3TotalTitres d'État / Appel d'offres BCT & pensions livrées60 939123 609184 548Créances mobilisées / Appel d'offres BCT130 990-130 990Total191 929123 609315 538Note 7.15Engagements en devises sur opérations de changeEn K.TNDdéc.-22déc.-21Devises vendues au comptant à livrer19 74312 538Devises achetées au comptant à recevoir30 680109 149Devises achetées à terme à recevoir70 601179 558Total121 024301 245",,,,,
-"TotalBilan",Résultat,Capital,"TotalBilan",Résultat,
-"Note 7.13Données d'identification des sociétés rentrant dans le périmètre de consolidationEn K.TNDdéc.-22déc.-21TotalTotalCapitalRésultatCapitalRésultatBilanBilanAstree30 000764 43017 10430 000686 76421 056Société du pôle de compétitivité de Bizerte15 00018 206(306)         15 00018 969732Placements de Tunisie Sicaf10 00018 2373 169         10 00018 9723 957Générale de participation SICAF20 00024 5612 06220 00022 998242Banque de Tunisie SICAR5 000344 2704 1715 000331 9544 025Transport de fonds de Tunisie100281(7)100377149La foncière des oliviers FOSA125523157125567173Société de participation et de promotion des7601 712467601 66544investissementsSPFT Carthago45 50359 6294 34645 50355 915929Société Club Aquarius de Nabeul3 65211 3532623 65211 09068Sicav Croissance14 89215 6391 83913 12013 818663Sicav Rendement434 386457 00525 364405 523425 35924 524Société de Bourse de Tunis1 0003 637651 0002 45956Générale immobilière de Tunisie8 0008 6491578 0008 827255Note 7.14Ventilation des actifs donnés en garantie et dettes respectivesEn K.TNDdéc.-22Dettes - PA1Dettes - PA3TotalTitres d'État / Appel d'offres BCT & pensions livrées60 939123 609184 548Créances mobilisées / Appel d'offres BCT130 990-130 990Total191 929123 609315 538Note 7.15Engagements en devises sur opérations de changeEn K.TNDdéc.-22déc.-21Devises vendues au comptant à livrer19 74312 538Devises achetées au comptant à recevoir30 680109 149Devises achetées à terme à recevoir70 601179 558Total121 024301 245",,,
-Dettes - PA3,,Total,
-"",184 548,,
-"",130 990,,
-"",315 538,,
-"",19 743,,,,
-"",30 680,,,,
-"",70 601,,,,
-"",121 024,,,,
-Dettes - PA3,,Total,,,
-"",,184 548,,,
-"",,130 990,,,
-"",,315 538,,,
-"",,,déc.-22
-▪,Les entreprises dans lesquelles une part substantielle,Commissions de dépôt,2 374 690
-"",,,,,financier assuré par la BT à Placements de Tunisie SICAF.
-"",,,,déc.-22,
-Intérêts sur dépôts,,,,200 005,8.6. Opérations avec ASTREE (Entité sous contrôle)
-Total des charges,,,,200 005,
-"",,,,,En. TND / HT
-Dépôts à vue,,,,10 616,
-Comptes à terme,,,,2 972 000,déc.-22
-Certificats de dépôt,,,,500 000,Services financiers 41 900
-Total des passifs,,,,3 482 616,Personnel en détachement 165 037
-"",,,,,Loyer locaux archivage 14 775
-La BT assure pour,le,compte,SICAV,CROISSANCE les,
-"",,,,,Droits de garde de titres 145 946
-fonctions de dépositaire exclusif des titres et des fonds. En,,,,,
-rémunération de ces,,"prestations,",la,BT perçoit des,Jetons de présence 12 000
-"commissions de dépôt à hauteur de 0,1% de l’actif net de",,,,,Dividendes 8 453 172
-Sicav Croissance.,,,,,Commissions diverses 6 296 960
-"",,,,,Commissions sur moyens de paiement 28 558
-8.4. Opérations avec Foncière des oliviers (Entité sous,,,,,
-contrôle),,,,,Total des produits 15 158 348
-"",,,,,Prime assurance multirisques 650 554
-En. TND / HT,,,,,
-"",,,,,Prime assurance groupe/charge sociale 2 268 592
-"",,,,,Prime épargne complémentaire retraités 293 441
-Services financiers,,,,4 900,
-"",,,,,Loyer locaux agences bancaire 56 232
-Droits de garde de titres,,,,512,
-"",,,,,Prime assurance (Contrat de gestion des
-Loyer locaux,,,,9 773,4 511 439départs à la retraite)
-Dividendes,,,,66 000,Intérêts sur dépôts 14 908 739
-Commissions sur comptes,,,,100,Jetons de présence 30 960
-Commissions sur moyens de paiement,,,,22,Total des charges 22 719 957
-Total des produits,,,,81 307,Dépôts à vue 1 432 402
-Dépôts à vue,,,,183 283,Comptes à terme 29 500 000
-Total des passifs,,,,183 283,Certificats de dépôt 181 775 000
-La Banque de Tunisie,,perçoit une,rémunération,brute,Total des passifs 212 707 402
-facturée à FOSA au titre du service financier et location de,,,,,
-"",,,,,La BT a conclu avec l’ASTREE une convention de service
-locaux fournis.,,,,,
-"",,,,,financier et d’administration des titres formant son capital.
-"",,,,,La BT perçoit une rémunération annuelle au titre de ses
-8.5. Opérations avec Placements de Tunisie SICAF (Entité,,,,,
-"",,,,,services.
-sous contrôle),,,,,
-"",,,,,"De son côté, la BT loue à l'ASTREE un local destiné à abriter"
-"",,,,,les archives de la société ASTREE.
-Services financiers,,,,65 200,"De plus, la BT affecte au profit de l’Astrée son personnel"
-afférentes Droits de garde de titres,,,,83 669,salarié et lui refacture les charges y
-"",,,,,trimestriellement.
-Loyer locaux,,,,9 773,
-Jetons de présence,,,,3 000,8.7. Opérations avec DIRECT PHONE SERVICES (part
-Commissions sur comptes,,,,175,substantielle dans les droits de vote)
-Commissions sur moyens de paiement,,,,26,
-Dividendes,,,,1 516 133,En. TND / HT
-Total des produits,,,,1 677 976,déc.-22
-Intérêts sur dépôts,,,,64 186,Services financiers 20 764
-Total des charges,,,,64 186,Loyer locaux 277 325
-"La BT loue des locaux à DPS pour le besoin de son activitéJetons de présence3 000en Tunisie. Aussi, la BT est chargée des services financiersDividendes3de DPS moyennant une rémunération annuelle.Total des produits106 3178.8.OpérationsavecSPFTCARTHAGO(EntitésousDépôts à vue731contrôle)Total des passifs731En. TND / HTLa BT a conclu une convention avec la société Générale dedéc.-22Participations en vertu de laquelle la BT héberge le siègeServices financiers24 500social de cette société et lui assure un service financier. Parailleurs, la BT facture à la générale de participations desLoyer locaux19 547droits de garde sur les titres en dépôt.Commissions sur compte200Commissions sur moyens de paiement1258.11. Opérations avec la Générale Immobilière de TunisieJetons de présence16 000GIT SA (Entité sous contrôle)Dividendes273 014En. TND / HTTotal des produits333 386déc.-22Intérêts sur dépôts795 521Services financiers16 300Total des charges795 521Loyer locaux19 547Dépôts à vue32 997Commissions sur compte200Certificats de dépôt12 000 000Commissions sur moyens de paiement30Total des passifs12 032 997Total des produits36 077La BT a conclu une convention avec SPFT CARTHAGO enDépôts à vue221 338vertu de laquelle la BT héberge le siège social de cetteTotal des passifs221 338société et lui assure un service financier moyennant unerémunération annuelle.La BT a conclu une convention avec la GIT SA en vertu delaquelle la BT héberge le siège social de cette société et lui8.9.OpérationsavecSCANCLUBACQUARUSNABEULassure un service financier et administratif moyennant une(Entité sous contrôle)rémunération annuelle.En. TND / HT8.12. Opérations avec BT SICAR (Entité sous contrôle)déc.-22En vertu de la convention de gestion de fonds à capitalServices financiers16 300risque, BT SICAR assure pour le compte de la BT la gestionLoyer locaux19 547des fonds déposés auprès d’elle.Commissions sur compte200En. TND / HTCommissions sur moyens de paiement49déc.-22Total des produits36 096Services financiers12 000Dépôts à vue24 476Loyer locaux16 289Total des passifs24 476Personnel en détachement247 977Commissions sur compte100La BT assure les services financiers de la SCAN (filiale deSPFT CARTHAGO) moyennant une rémunération annuelle.Commissions sur moyens de paiement55La BT loue des locaux à SCAN CLUB pour le besoin de sonDividendes4 998 400activité.Total des produits5 274 8218.10.OpérationsaveclaGénéraledeParticipationsEn. TND / HT(Entité sous contrôle)déc.-22En. TND / HTCommissions de gestion2 883 7794 430 514Commissions de performancedéc.-22255 425      Services financiersCommissions de rendement65 200Droits de garde de titres28 142Total des charges7 569 718Loyer locaux9 773Dépôts à vue51 204Commissions sur comptes179Total des passifs51 204Commissions sur moyens de paiement20",,
-"",3 000,
-"",3,
-106 317,,
-731,,
-"La BT loue des locaux à DPS pour le besoin de son activitéJetons de présence3 000en Tunisie. Aussi, la BT est chargée des services financiersDividendes3de DPS moyennant une rémunération annuelle.Total des produits106 3178.8.OpérationsavecSPFTCARTHAGO(EntitésousDépôts à vue731contrôle)Total des passifs731En. TND / HTLa BT a conclu une convention avec la société Générale dedéc.-22Participations en vertu de laquelle la BT héberge le siègeServices financiers24 500social de cette société et lui assure un service financier. Parailleurs, la BT facture à la générale de participations desLoyer locaux19 547droits de garde sur les titres en dépôt.Commissions sur compte200Commissions sur moyens de paiement1258.11. Opérations avec la Générale Immobilière de TunisieJetons de présence16 000GIT SA (Entité sous contrôle)Dividendes273 014En. TND / HTTotal des produits333 386déc.-22Intérêts sur dépôts795 521Services financiers16 300Total des charges795 521Loyer locaux19 547Dépôts à vue32 997Commissions sur compte200Certificats de dépôt12 000 000Commissions sur moyens de paiement30Total des passifs12 032 997Total des produits36 077La BT a conclu une convention avec SPFT CARTHAGO enDépôts à vue221 338vertu de laquelle la BT héberge le siège social de cetteTotal des passifs221 338société et lui assure un service financier moyennant unerémunération annuelle.La BT a conclu une convention avec la GIT SA en vertu delaquelle la BT héberge le siège social de cette société et lui8.9.OpérationsavecSCANCLUBACQUARUSNABEULassure un service financier et administratif moyennant une(Entité sous contrôle)rémunération annuelle.En. TND / HT8.12. Opérations avec BT SICAR (Entité sous contrôle)déc.-22En vertu de la convention de gestion de fonds à capitalServices financiers16 300risque, BT SICAR assure pour le compte de la BT la gestionLoyer locaux19 547des fonds déposés auprès d’elle.Commissions sur compte200En. TND / HTCommissions sur moyens de paiement49déc.-22Total des produits36 096Services financiers12 000Dépôts à vue24 476Loyer locaux16 289Total des passifs24 476Personnel en détachement247 977Commissions sur compte100La BT assure les services financiers de la SCAN (filiale deSPFT CARTHAGO) moyennant une rémunération annuelle.Commissions sur moyens de paiement55La BT loue des locaux à SCAN CLUB pour le besoin de sonDividendes4 998 400activité.Total des produits5 274 8218.10.OpérationsaveclaGénéraledeParticipationsEn. TND / HT(Entité sous contrôle)déc.-22En. TND / HTCommissions de gestion2 883 7794 430 514Commissions de performancedéc.-22255 425      Services financiersCommissions de rendement65 200Droits de garde de titres28 142Total des charges7 569 718Loyer locaux9 773Dépôts à vue51 204Commissions sur comptes179Total des passifs51 204Commissions sur moyens de paiement20"
-106 317
-"La BT loue des locaux à DPS pour le besoin de son activitéJetons de présence3 000en Tunisie. Aussi, la BT est chargée des services financiersDividendes3de DPS moyennant une rémunération annuelle.Total des produits106 3178.8.OpérationsavecSPFTCARTHAGO(EntitésousDépôts à vue731contrôle)Total des passifs731En. TND / HTLa BT a conclu une convention avec la société Générale dedéc.-22Participations en vertu de laquelle la BT héberge le siègeServices financiers24 500social de cette société et lui assure un service financier. Parailleurs, la BT facture à la générale de participations desLoyer locaux19 547droits de garde sur les titres en dépôt.Commissions sur compte200Commissions sur moyens de paiement1258.11. Opérations avec la Générale Immobilière de TunisieJetons de présence16 000GIT SA (Entité sous contrôle)Dividendes273 014En. TND / HTTotal des produits333 386déc.-22Intérêts sur dépôts795 521Services financiers16 300Total des charges795 521Loyer locaux19 547Dépôts à vue32 997Commissions sur compte200Certificats de dépôt12 000 000Commissions sur moyens de paiement30Total des passifs12 032 997Total des produits36 077La BT a conclu une convention avec SPFT CARTHAGO enDépôts à vue221 338vertu de laquelle la BT héberge le siège social de cetteTotal des passifs221 338société et lui assure un service financier moyennant unerémunération annuelle.La BT a conclu une convention avec la GIT SA en vertu delaquelle la BT héberge le siège social de cette société et lui8.9.OpérationsavecSCANCLUBACQUARUSNABEULassure un service financier et administratif moyennant une(Entité sous contrôle)rémunération annuelle.En. TND / HT8.12. Opérations avec BT SICAR (Entité sous contrôle)déc.-22En vertu de la convention de gestion de fonds à capitalServices financiers16 300risque, BT SICAR assure pour le compte de la BT la gestionLoyer locaux19 547des fonds déposés auprès d’elle.Commissions sur compte200En. TND / HTCommissions sur moyens de paiement49déc.-22Total des produits36 096Services financiers12 000Dépôts à vue24 476Loyer locaux16 289Total des passifs24 476Personnel en détachement247 977Commissions sur compte100La BT assure les services financiers de la SCAN (filiale deSPFT CARTHAGO) moyennant une rémunération annuelle.Commissions sur moyens de paiement55La BT loue des locaux à SCAN CLUB pour le besoin de sonDividendes4 998 400activité.Total des produits5 274 8218.10.OpérationsaveclaGénéraledeParticipationsEn. TND / HT(Entité sous contrôle)déc.-22En. TND / HTCommissions de gestion2 883 7794 430 514Commissions de performancedéc.-22255 425      Services financiersCommissions de rendement65 200Droits de garde de titres28 142Total des charges7 569 718Loyer locaux9 773Dépôts à vue51 204Commissions sur comptes179Total des passifs51 204Commissions sur moyens de paiement20",
-179,17
-"La BT loue des locaux à DPS pour le besoin de son activitéJetons de présence3 000en Tunisie. Aussi, la BT est chargée des services financiersDividendes3de DPS moyennant une rémunération annuelle.Total des produits106 3178.8.OpérationsavecSPFTCARTHAGO(EntitésousDépôts à vue731contrôle)Total des passifs731En. TND / HTLa BT a conclu une convention avec la société Générale dedéc.-22Participations en vertu de laquelle la BT héberge le siègeServices financiers24 500social de cette société et lui assure un service financier. Parailleurs, la BT facture à la générale de participations desLoyer locaux19 547droits de garde sur les titres en dépôt.Commissions sur compte200Commissions sur moyens de paiement1258.11. Opérations avec la Générale Immobilière de TunisieJetons de présence16 000GIT SA (Entité sous contrôle)Dividendes273 014En. TND / HTTotal des produits333 386déc.-22Intérêts sur dépôts795 521Services financiers16 300Total des charges795 521Loyer locaux19 547Dépôts à vue32 997Commissions sur compte200Certificats de dépôt12 000 000Commissions sur moyens de paiement30Total des passifs12 032 997Total des produits36 077La BT a conclu une convention avec SPFT CARTHAGO enDépôts à vue221 338vertu de laquelle la BT héberge le siège social de cetteTotal des passifs221 338société et lui assure un service financier moyennant unerémunération annuelle.La BT a conclu une convention avec la GIT SA en vertu delaquelle la BT héberge le siège social de cette société et lui8.9.OpérationsavecSCANCLUBACQUARUSNABEULassure un service financier et administratif moyennant une(Entité sous contrôle)rémunération annuelle.En. TND / HT8.12. Opérations avec BT SICAR (Entité sous contrôle)déc.-22En vertu de la convention de gestion de fonds à capitalServices financiers16 300risque, BT SICAR assure pour le compte de la BT la gestionLoyer locaux19 547des fonds déposés auprès d’elle.Commissions sur compte200En. TND / HTCommissions sur moyens de paiement49déc.-22Total des produits36 096Services financiers12 000Dépôts à vue24 476Loyer locaux16 289Total des passifs24 476Personnel en détachement247 977Commissions sur compte100La BT assure les services financiers de la SCAN (filiale deSPFT CARTHAGO) moyennant une rémunération annuelle.Commissions sur moyens de paiement55La BT loue des locaux à SCAN CLUB pour le besoin de sonDividendes4 998 400activité.Total des produits5 274 8218.10.OpérationsaveclaGénéraledeParticipationsEn. TND / HT(Entité sous contrôle)déc.-22En. TND / HTCommissions de gestion2 883 7794 430 514Commissions de performancedéc.-22255 425      Services financiersCommissions de rendement65 200Droits de garde de titres28 142Total des charges7 569 718Loyer locaux9 773Dépôts à vue51 204Commissions sur comptes179Total des passifs51 204Commissions sur moyens de paiement20",,,,,,
-"",,déc.-22,déc.-22,,,
-"",12 000,,,,,
-16 289,,,,,,
-"",16 289,,,,,
-247 977,,,,,,
-"",247 977,,,,,
-100,,,,,,
-"",100,,,,,
-"",55,,,,,
-"",4 998 400,,,,,
-5 274 821,,,,,,
-200,20
-100
-24 476
-24 47
-"La BT loue des locaux à DPS pour le besoin de son activitéJetons de présence3 000en Tunisie. Aussi, la BT est chargée des services financiersDividendes3de DPS moyennant une rémunération annuelle.Total des produits106 3178.8.OpérationsavecSPFTCARTHAGO(EntitésousDépôts à vue731contrôle)Total des passifs731En. TND / HTLa BT a conclu une convention avec la société Générale dedéc.-22Participations en vertu de laquelle la BT héberge le siègeServices financiers24 500social de cette société et lui assure un service financier. Parailleurs, la BT facture à la générale de participations desLoyer locaux19 547droits de garde sur les titres en dépôt.Commissions sur compte200Commissions sur moyens de paiement1258.11. Opérations avec la Générale Immobilière de TunisieJetons de présence16 000GIT SA (Entité sous contrôle)Dividendes273 014En. TND / HTTotal des produits333 386déc.-22Intérêts sur dépôts795 521Services financiers16 300Total des charges795 521Loyer locaux19 547Dépôts à vue32 997Commissions sur compte200Certificats de dépôt12 000 000Commissions sur moyens de paiement30Total des passifs12 032 997Total des produits36 077La BT a conclu une convention avec SPFT CARTHAGO enDépôts à vue221 338vertu de laquelle la BT héberge le siège social de cetteTotal des passifs221 338société et lui assure un service financier moyennant unerémunération annuelle.La BT a conclu une convention avec la GIT SA en vertu delaquelle la BT héberge le siège social de cette société et lui8.9.OpérationsavecSCANCLUBACQUARUSNABEULassure un service financier et administratif moyennant une(Entité sous contrôle)rémunération annuelle.En. TND / HT8.12. Opérations avec BT SICAR (Entité sous contrôle)déc.-22En vertu de la convention de gestion de fonds à capitalServices financiers16 300risque, BT SICAR assure pour le compte de la BT la gestionLoyer locaux19 547des fonds déposés auprès d’elle.Commissions sur compte200En. TND / HTCommissions sur moyens de paiement49déc.-22Total des produits36 096Services financiers12 000Dépôts à vue24 476Loyer locaux16 289Total des passifs24 476Personnel en détachement247 977Commissions sur compte100La BT assure les services financiers de la SCAN (filiale deSPFT CARTHAGO) moyennant une rémunération annuelle.Commissions sur moyens de paiement55La BT loue des locaux à SCAN CLUB pour le besoin de sonDividendes4 998 400activité.Total des produits5 274 8218.10.OpérationsaveclaGénéraledeParticipationsEn. TND / HT(Entité sous contrôle)déc.-22En. TND / HTCommissions de gestion2 883 7794 430 514Commissions de performancedéc.-22255 425      Services financiersCommissions de rendement65 200Droits de garde de titres28 142Total des charges7 569 718Loyer locaux9 773Dépôts à vue51 204Commissions sur comptes179Total des passifs51 204Commissions sur moyens de paiement20",,,,,
-"",16 30,,,,
-"",19 54,,,,
-"",20,,,,
-36 096,,,,,
-36 09,,,,,
-24 476,,,,,
-24 47,,,,,
-7 569 718
-30,3
-"La BT loue des locaux à DPS pour le besoin de son activitéJetons de présence3 000en Tunisie. Aussi, la BT est chargée des services financiersDividendes3de DPS moyennant une rémunération annuelle.Total des produits106 3178.8.OpérationsavecSPFTCARTHAGO(EntitésousDépôts à vue731contrôle)Total des passifs731En. TND / HTLa BT a conclu une convention avec la société Générale dedéc.-22Participations en vertu de laquelle la BT héberge le siègeServices financiers24 500social de cette société et lui assure un service financier. Parailleurs, la BT facture à la générale de participations desLoyer locaux19 547droits de garde sur les titres en dépôt.Commissions sur compte200Commissions sur moyens de paiement1258.11. Opérations avec la Générale Immobilière de TunisieJetons de présence16 000GIT SA (Entité sous contrôle)Dividendes273 014En. TND / HTTotal des produits333 386déc.-22Intérêts sur dépôts795 521Services financiers16 300Total des charges795 521Loyer locaux19 547Dépôts à vue32 997Commissions sur compte200Certificats de dépôt12 000 000Commissions sur moyens de paiement30Total des passifs12 032 997Total des produits36 077La BT a conclu une convention avec SPFT CARTHAGO enDépôts à vue221 338vertu de laquelle la BT héberge le siège social de cetteTotal des passifs221 338société et lui assure un service financier moyennant unerémunération annuelle.La BT a conclu une convention avec la GIT SA en vertu delaquelle la BT héberge le siège social de cette société et lui8.9.OpérationsavecSCANCLUBACQUARUSNABEULassure un service financier et administratif moyennant une(Entité sous contrôle)rémunération annuelle.En. TND / HT8.12. Opérations avec BT SICAR (Entité sous contrôle)déc.-22En vertu de la convention de gestion de fonds à capitalServices financiers16 300risque, BT SICAR assure pour le compte de la BT la gestionLoyer locaux19 547des fonds déposés auprès d’elle.Commissions sur compte200En. TND / HTCommissions sur moyens de paiement49déc.-22Total des produits36 096Services financiers12 000Dépôts à vue24 476Loyer locaux16 289Total des passifs24 476Personnel en détachement247 977Commissions sur compte100La BT assure les services financiers de la SCAN (filiale deSPFT CARTHAGO) moyennant une rémunération annuelle.Commissions sur moyens de paiement55La BT loue des locaux à SCAN CLUB pour le besoin de sonDividendes4 998 400activité.Total des produits5 274 8218.10.OpérationsaveclaGénéraledeParticipationsEn. TND / HT(Entité sous contrôle)déc.-22En. TND / HTCommissions de gestion2 883 7794 430 514Commissions de performancedéc.-22255 425      Services financiersCommissions de rendement65 200Droits de garde de titres28 142Total des charges7 569 718Loyer locaux9 773Dépôts à vue51 204Commissions sur comptes179Total des passifs51 204Commissions sur moyens de paiement20",,,
-"",,déc.-22,déc.-22
-16 300,16 30,,
-19 547,19 54,,
-200,20,,
-30,3,,
-36 077,36 07,,
-"",221 33,,
-221 338,,,
-221 33,,,
-247 977
-"",2 883 779,,,,
-"",4 430 514,,,,
-"",255 425,,,,
-7 569 718,,,,,
-51 204,,,,,
-"La BT loue des locaux à DPS pour le besoin de son activitéJetons de présence3 000en Tunisie. Aussi, la BT est chargée des services financiersDividendes3de DPS moyennant une rémunération annuelle.Total des produits106 3178.8.OpérationsavecSPFTCARTHAGO(EntitésousDépôts à vue731contrôle)Total des passifs731En. TND / HTLa BT a conclu une convention avec la société Générale dedéc.-22Participations en vertu de laquelle la BT héberge le siègeServices financiers24 500social de cette société et lui assure un service financier. Parailleurs, la BT facture à la générale de participations desLoyer locaux19 547droits de garde sur les titres en dépôt.Commissions sur compte200Commissions sur moyens de paiement1258.11. Opérations avec la Générale Immobilière de TunisieJetons de présence16 000GIT SA (Entité sous contrôle)Dividendes273 014En. TND / HTTotal des produits333 386déc.-22Intérêts sur dépôts795 521Services financiers16 300Total des charges795 521Loyer locaux19 547Dépôts à vue32 997Commissions sur compte200Certificats de dépôt12 000 000Commissions sur moyens de paiement30Total des passifs12 032 997Total des produits36 077La BT a conclu une convention avec SPFT CARTHAGO enDépôts à vue221 338vertu de laquelle la BT héberge le siège social de cetteTotal des passifs221 338société et lui assure un service financier moyennant unerémunération annuelle.La BT a conclu une convention avec la GIT SA en vertu delaquelle la BT héberge le siège social de cette société et lui8.9.OpérationsavecSCANCLUBACQUARUSNABEULassure un service financier et administratif moyennant une(Entité sous contrôle)rémunération annuelle.En. TND / HT8.12. Opérations avec BT SICAR (Entité sous contrôle)déc.-22En vertu de la convention de gestion de fonds à capitalServices financiers16 300risque, BT SICAR assure pour le compte de la BT la gestionLoyer locaux19 547des fonds déposés auprès d’elle.Commissions sur compte200En. TND / HTCommissions sur moyens de paiement49déc.-22Total des produits36 096Services financiers12 000Dépôts à vue24 476Loyer locaux16 289Total des passifs24 476Personnel en détachement247 977Commissions sur compte100La BT assure les services financiers de la SCAN (filiale deSPFT CARTHAGO) moyennant une rémunération annuelle.Commissions sur moyens de paiement55La BT loue des locaux à SCAN CLUB pour le besoin de sonDividendes4 998 400activité.Total des produits5 274 8218.10.OpérationsaveclaGénéraledeParticipationsEn. TND / HT(Entité sous contrôle)déc.-22En. TND / HTCommissions de gestion2 883 7794 430 514Commissions de performancedéc.-22255 425      Services financiersCommissions de rendement65 200Droits de garde de titres28 142Total des charges7 569 718Loyer locaux9 773Dépôts à vue51 204Commissions sur comptes179Total des passifs51 204Commissions sur moyens de paiement20",,,,,,,,,,,
-"",,,,,,,3 000,,,,
-"",,,,,,,3,,,,
-"",,,,,,106 317,,,,,
-"",,,,,,,,106 317,,,
-"",,,,,,731,,,,,
-"",,,,,,,,731,,,
-"",,,,déc.-22,,,,,,,
-"",,,24 50,,,,,,,,
-"",,,19 54,,,,,,,,
-"",,,20,,,,,,,,
-"",,,12,,,,,,,,
-"",,,16 00,,,,,,,,
-"",,,273 01,,,,,,,,
-"",,333 386,,,,,,,,,
-"",,,333 38,,,déc.-22,déc.-22,,,,
-"",,,795 52,,,,,,,,
-"",,,,,,16 300,16 30,,,,
-"",,,,,,19 547,19 54,,,,
-"",,,32 99,,,,,,,,
-"",,,,,,200,20,,,,
-"",,,12 000 00,,,,,,,,
-"",,,,,,30,3,,,,
-"",,,12 032 99,,,,,,,,
-"",,,,,,36 077,36 07,,,,
-"",,,,,,,221 33,,,,
-"",,,,,,221 338,,,,,
-"",,,,,,,,221 33,,,
-"",,,16 30,,,,,,,,
-"",,,4,,,,,,,,
-"",,,,,,,,déc.-22,déc.-22,,
-"",,36 096,,,,,,,,,
-"",,,36 09,,12 000,,,,,,
-"",,24 476,16 289,,,,,,,,
-"",,,24 47,16 289,,,,,,,
-"",,24 476,247 977,,,,,,,,
-"",,,24 47,247 977,,,,,,,
-"",,,,,,100,,,,,
-"",,,,,,,55,,,,
-"",,,,,,,4 998 400,,,,
-"",,,,,,5 274 821,,,,,
-"",,,,,,,,,,déc.-22,
-"",,,,,,,2 883 779,,,,
-"",,,,4 430 514,,,,,,,
-"",,,,255 425,,,,,,,
-"",65 20,,,,,,,,,,
-"",,,7 569 718,,,,,,,,
-28 142,7 569 718,,,,,,,,,,
-28 14,,,,,,,,,,,
-"",,,51 204,,,,,,,,
-9 773,9 77,51 204,,,,,,,,,
-179,17,51 204,,,,,,,,,
-"",2,,,,,,,,,,
-16 300,16 30
-333 386
-333 38
-"",65 20,,,,
-28 142,,,,,
-28 14,,,,,
-9 773,9 77,,,,
-179,17,,,,
-déc.-22,déc.-22
-731
-19 547,19 54
-16 289
-36 077,36 07
-28 142,
-28 14,
-9 773,9 77
-"",24 50,,,,
-"",12,,,,
-"",16 00,,,,
-"",273 01,,,,
-333 386,,,,,
-333 38,,,,,
-"",795 52,,,,
-"",32 99,,,,
-"",12 000 00,,,,
-"",12 032 99,,,,
-51 204
-36 096
-36 09
-commission de 1% l’an déterminée sur la base des actifs,,
-"",,déc.-22
-valorisés à la fin de chaque année (Titres cotés évalués à la,,
-"valeur boursière, titres non cotés évalués à la valeur",Services financiers,3 000
-"nominale). Elle perçoit, également, une commission de",Droit de garde de Titres,12
-performance égale à 20% du montant des plus-values,Loyer locaux,2 000
-"réalisées, et une commission de rendement égale à 10%",,
-des produits des placements réalisés par le fonds.,Commissions sur compte,100
-"",Commissions sur moyens de paiement,8
-La BT assure des services financiers à BT SICAR moyennant,,
-une rémunération annuelle.,Total des produits,5 120
-"",Dépôts à vue,44 457
-La BT met à disposition de la BT SICAR des locaux,,
-moyennant un loyer annuel.,Total des passifs,44 457
-La BT affecte au profit de la BT SICAR son personnel salarié,La BT a conclu une convention avec SPPI-SICAR en vertu de,
-et lui refacture les charges y afférentes semestriellement.,laquelle la Banque de Tunisie est chargée de la tenue de la,
-"","gestion comptable de la SPPI-SICAR, de l’organisation des",
-8.13. Opérations avec BFCM - Banque Fédérative du,conseils d’administration et des assemblées Générales.,
-Crédit Mutuel (Entité exerçant une influence notable sur,De plus la BT loue à SPPI-SICAR un bureau pour abriter son,
-la BT),siège social.,
-En. TND / HT,,
-"",8.16. Opérations avec la société,International
-déc.-22,Information développement| IID,
-Droits de garde sur titres 65 589,,
-"",En. TND / HT,
-Commissions sur moyens de paiement 72,,
-Total des produits 65 661,,
-"",Services financiers,20 764
-Dépôts à vue 684 402,,
-"",Commissions sur moyens de paiement,3 712
-Total des passifs 684 402,,
-"",Dividendes,181 170
-"La Banque de Tunisie a conclu, le 17 juillet 2006, une",Total des produits,205 646
-convention avec la Banque Fédérative du Crédit Mutuelle,Dépôts à vue,850 763
-"« B.F.C.M », en vertu de laquelle elle agit en tant que sous-",,
-"",Total des passifs,850 763
-dépositaire de titres et espèces en Tunisie pour le compte,,
-de la « B.F.C.M » ou de ses clients. En contrepartie de ses,La BT assure les services financiers de IID moyennant une,
-"prestations, la Banque perçoit une rémunération fixée",rémunération annuelle.,
-suivant un barème convenu entre les deux parties. Cette,,
-convention est conclue pour une période de 180 jours,,
-"",8.17. Opérations avec la société Pôle de compétitivité de,
-calendaires renouvelables par tacite reconduction.,,
-"",Bizerte | SPCB,
-8.14 Opérations avec Transport de Fonds de Tunisie - TFT,,
-(Entité sous contrôle),,
-La Banque perçoit un loyer annuel payable,,
-trimestriellement.,Commissions sur comptes,300
-"",,Membres du conseil
-Directeur général,Directeurs généraux adjoints,
-"",,d’administration
-Charges de Dont passifs au,Charges de Dont passifs au,Charges de Dont passifs au
-l’exercice 31/12/2022,l’exercice 31/12/2022,l’exercice 31/12/2022
