@@ -45,8 +45,16 @@ python3 -m pip install -r requirements.txt
 ```
 
 ### Running the project
-Now that everything is set up, you can run the project using the following command:
+Now that everything is set up, from the root of the project go to the pdfExtractor directory you can run the project using the python3 command:
 
 ```bash
+cd pdfExtractor
 python3 main.py
+```
+### Running tests
+from the root of the project go to pdfExtractorTest directory and run pytest as shown:
+
+```bash
+cd pdfExtractorTest
+pytest -vv
 ```
